@@ -1,0 +1,41 @@
+JVM info: Ubuntu - 17.0.13 - 17.0.13+11-Ubuntu-2ubuntu120.04
+java.net.preferIPv4Stack=true
+Current Time: 30/11/2024 19:21:58
+Host: files.minecraftforge.net [104.21.58.163, 172.67.161.211]
+Host: maven.minecraftforge.net [104.21.58.163, 172.67.161.211]
+Host: libraries.minecraft.net [13.107.246.41]
+Host: launchermeta.mojang.com [13.107.253.41]
+Host: piston-meta.mojang.com [13.107.253.41]
+Host: sessionserver.mojang.com [13.107.246.41]
+Host: authserver.mojang.com [Unknown]
+Data kindly mirrored by Forge at https://files.minecraftforge.net/
+java.awt.HeadlessException: 
+No X11 DISPLAY variable was set,
+but this program performed an operation which requires it.
+	at java.desktop/java.awt.GraphicsEnvironment.checkHeadless(GraphicsEnvironment.java:164)
+	at java.desktop/java.awt.Window.init(Window.java:501)
+	at java.desktop/java.awt.Window.<init>(Window.java:453)
+	at java.desktop/java.awt.Window.<init>(Window.java:608)
+	at java.desktop/java.awt.Dialog.<init>(Dialog.java:675)
+	at java.desktop/java.awt.Dialog.<init>(Dialog.java:520)
+	at java.desktop/javax.swing.JDialog.<init>(JDialog.java:423)
+	at java.desktop/javax.swing.JOptionPane.createDialog(JOptionPane.java:956)
+	at net.minecraftforge.installer.InstallerPanel.run(InstallerPanel.java:279)
+	at net.minecraftforge.installer.SimpleInstaller.launchGui(SimpleInstaller.java:182)
+	at net.minecraftforge.installer.SimpleInstaller.main(SimpleInstaller.java:154)
+Exception in thread "main" 
+java.awt.HeadlessException: 
+No X11 DISPLAY variable was set,
+but this program performed an operation which requires it.
+	at java.desktop/java.awt.GraphicsEnvironment.checkHeadless(GraphicsEnvironment.java:164)
+	at java.desktop/java.awt.Window.<init>(Window.java:553)
+	at java.desktop/java.awt.Frame.<init>(Frame.java:428)
+	at java.desktop/java.awt.Frame.<init>(Frame.java:393)
+	at java.desktop/javax.swing.SwingUtilities$SharedOwnerFrame.<init>(SwingUtilities.java:1919)
+	at java.desktop/javax.swing.SwingUtilities.getSharedOwnerFrame(SwingUtilities.java:1995)
+	at java.desktop/javax.swing.JOptionPane.getRootFrame(JOptionPane.java:1695)
+	at java.desktop/javax.swing.JOptionPane.showOptionDialog(JOptionPane.java:874)
+	at java.desktop/javax.swing.JOptionPane.showMessageDialog(JOptionPane.java:676)
+	at java.desktop/javax.swing.JOptionPane.showMessageDialog(JOptionPane.java:647)
+	at net.minecraftforge.installer.SimpleInstaller.launchGui(SimpleInstaller.java:185)
+	at net.minecraftforge.installer.SimpleInstaller.main(SimpleInstaller.java:154)
