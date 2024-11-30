@@ -3973,3 +3973,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Nov2024 21:13:17.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
 [30Nov2024 21:18:02.422] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.149.174.107:48187] logged in with entity id 5026 at (-0.13044752254268951, 76.35462343789479, 11.63734283707913)
 [30Nov2024 21:18:02.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[30Nov2024 21:20:20.603] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1323, l='ServerLevel[world]', x=51.59, y=79.00, z=18.81] died, message: 'Villager was slain by Sucker'
+[30Nov2024 21:24:25.795] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/1308, l='ServerLevel[world]', x=-43.43, y=71.00, z=-34.44] died, message: 'Fisherman was slain by The Moonflower'
+[30Nov2024 21:27:05.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[30Nov2024 21:27:05.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
