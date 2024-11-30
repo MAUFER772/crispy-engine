@@ -3968,3 +3968,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Nov2024 20:24:49.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
 [30Nov2024 20:48:55.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.149.174.107:45089] logged in with entity id 1805 at (7.699999988079071, 55.0, 12.699999988079071)
 [30Nov2024 20:48:55.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[30Nov2024 21:08:32.745] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1326, l='ServerLevel[world]', x=-2.74, y=83.00, z=77.45] died, message: 'Villager withered away whilst fighting Sprinter'
+[30Nov2024 21:13:17.046] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[30Nov2024 21:13:17.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[30Nov2024 21:18:02.422] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.149.174.107:48187] logged in with entity id 5026 at (-0.13044752254268951, 76.35462343789479, 11.63734283707913)
+[30Nov2024 21:18:02.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
