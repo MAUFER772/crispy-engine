@@ -1,79 +1,219 @@
 {
-  "minecraft:recipes/decorations/crafting_table": {
+  "iceandfire:iceandfire/root": {
     "criteria": {
-      "unlock_right_away": "2024-11-24 02:00:09 +0000"
+      "tick": "2024-11-30 20:21:37 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "takesapillage:root": {
     "criteria": {
-      "minecraft:beach": "2024-11-24 02:29:02 +0000",
-      "minecraft:river": "2024-11-24 02:29:16 +0000",
-      "minecraft:ocean": "2024-11-24 02:29:04 +0000",
-      "minecraft:flower_forest": "2024-11-24 02:29:39 +0000",
-      "minecraft:plains": "2024-11-24 02:00:10 +0000"
+      "always": "2024-11-30 20:21:37 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-30 20:21:38 +0000"
     },
     "done": false
   },
-  "minecraft:adventure/root": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "killed_by_something": "2024-11-24 02:09:56 +0000"
+      "log_spam_fixer": "2024-11-30 20:24:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-30 20:24:24 +0000"
+    },
+    "done": false
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2024-11-30 20:21:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/mangrove_boat": {
+  "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "in_water": "2024-11-24 02:30:41 +0000"
+      "log_spam_fixer": "2024-11-30 20:24:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-30 20:21:38 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-11-30 20:21:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "undead_revamp2:theundeadchallenges": {
     "criteria": {
-      "in_water": "2024-11-24 02:30:41 +0000"
+      "theundeadchallenges": "2024-11-30 20:21:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/cherry_boat": {
+  "friendsandfoes:misc/yellow_dye_from_buttercup": {
     "criteria": {
-      "in_water": "2024-11-24 02:30:41 +0000"
+      "has_the_recipe": "2024-11-30 20:21:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/bamboo_raft": {
+  "naturescompass:natures_compass_log": {
     "criteria": {
-      "in_water": "2024-11-24 02:30:41 +0000"
+      "has_recipe": "2024-11-30 20:21:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
+  "incendium:technical/feed_ghastling": {
     "criteria": {
-      "in_water": "2024-11-24 02:30:41 +0000"
+      "log_spam_fixer": "2024-11-30 20:24:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-30 20:24:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-30 20:24:24 +0000"
+    },
+    "done": false
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2024-11-30 20:21:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "naturescompass:natures_compass_sapling": {
     "criteria": {
-      "in_water": "2024-11-24 02:30:41 +0000"
+      "has_recipe": "2024-11-30 20:21:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "incendium:technical/using/trailblazer": {
     "criteria": {
-      "in_water": "2024-11-24 02:30:41 +0000"
+      "log_spam_fixer": "2024-11-30 20:21:38 +0000"
+    },
+    "done": false
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-11-30 20:21:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "betterdungeons:root": {
     "criteria": {
-      "in_water": "2024-11-24 02:30:41 +0000"
+      "always": "2024-11-30 20:21:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "incendium:technical/firestorm": {
     "criteria": {
-      "in_water": "2024-11-24 02:30:41 +0000"
+      "log_spam_fixer": "2024-11-30 20:24:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_plains": "2024-11-30 20:21:38 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-30 20:24:24 +0000"
+    },
+    "done": false
+  },
+  "placeablesmod:placeables": {
+    "criteria": {
+      "placeables": "2024-11-30 20:21:37 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-30 20:24:24 +0000"
+    },
+    "done": false
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2024-11-30 20:21:37 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/root": {
+    "criteria": {
+      "requirement": "2024-11-30 20:21:37 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-30 20:21:38 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-30 20:24:24 +0000"
+    },
+    "done": false
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-11-30 20:21:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-11-30 20:21:38 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-11-30 20:21:37 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2024-11-30 20:21:37 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2024-11-30 20:21:37 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-30 20:24:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-30 20:24:24 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
