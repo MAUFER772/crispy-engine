@@ -3966,3 +3966,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Nov2024 20:24:35.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
 [30Nov2024 20:24:48.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
 [30Nov2024 20:24:49.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[30Nov2024 20:48:55.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.149.174.107:45089] logged in with entity id 1805 at (7.699999988079071, 55.0, 12.699999988079071)
+[30Nov2024 20:48:55.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game

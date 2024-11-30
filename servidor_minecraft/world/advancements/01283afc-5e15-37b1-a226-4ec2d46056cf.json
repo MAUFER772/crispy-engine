@@ -11,41 +11,11 @@
     },
     "done": true
   },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-30 20:21:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-30 20:24:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-30 20:24:24 +0000"
-    },
-    "done": false
-  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2024-11-30 20:21:37 +0000"
     },
     "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-30 20:24:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-30 20:21:38 +0000"
-    },
-    "done": false
   },
   "dungeons_arise:wda_root": {
     "criteria": {
@@ -71,24 +41,6 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-30 20:24:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-30 20:24:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-30 20:24:24 +0000"
-    },
-    "done": false
-  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2024-11-30 20:21:37 +0000"
@@ -100,12 +52,6 @@
       "has_recipe": "2024-11-30 20:21:37 +0000"
     },
     "done": true
-  },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-30 20:21:38 +0000"
-    },
-    "done": false
   },
   "mowziesmobs:root": {
     "criteria": {
@@ -119,35 +65,11 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-30 20:24:24 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:snowy_plains": "2024-11-30 20:21:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-30 20:24:24 +0000"
-    },
-    "done": false
-  },
   "placeablesmod:placeables": {
     "criteria": {
       "placeables": "2024-11-30 20:21:37 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-30 20:24:24 +0000"
-    },
-    "done": false
   },
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
@@ -161,27 +83,9 @@
     },
     "done": true
   },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-30 20:21:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-30 20:24:24 +0000"
-    },
-    "done": false
-  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2024-11-30 20:21:37 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2024-11-30 20:21:38 +0000"
     },
     "done": true
   },
@@ -203,17 +107,41 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "incendium:technical/scroll_of_returning": {
     "criteria": {
-      "log_spam_fixer": "2024-11-30 20:24:24 +0000"
+      "log_spam_fixer": "2024-11-30 20:21:38 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "incendium:technical/using/ragnarok": {
     "criteria": {
-      "log_spam_fixer": "2024-11-30 20:24:24 +0000"
+      "log_spam_fixer": "2024-11-30 20:21:38 +0000"
     },
     "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-30 20:21:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_plains": "2024-11-30 20:21:38 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-30 20:21:38 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-11-30 20:21:38 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
