@@ -24,6 +24,9 @@
 	#How many cpu cores big mobs(tremorzilla, atlatitan, grottoceratops etc) should utilize when pathing. Bigger number = less impact on TPS
 	#Range: 1 ~ 100
 	pathfinding_threads = 5
+	#Chance that blocks destroyed by luxtructosaurus attacks drop themselves, if mob griefing is enabled.
+	#Range: 0.0 ~ 1.0
+	luxtructosaurus_block_drop_chance = 0.75
 	#The maximum explosion resistance that a block can have to be destroyed by an atlatitan stomp. Set to zero to disable all atlatitan block breaking.
 	#Range: > 0
 	atlatitan_max_block_explosion_resistance = 10
