@@ -2864,3 +2864,46 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [14Dec2024 18:38:05.910] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-261, y=68, z=-195}
 [14Dec2024 18:38:06.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-261, y=68, z=-195}
 [14Dec2024 18:38:06.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-261, y=69, z=-195}
+[14Dec2024 18:38:12.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-261, y=68, z=-195}
+[14Dec2024 18:38:37.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[14Dec2024 18:39:01.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-262, y=69, z=-194}
+[14Dec2024 18:39:01.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-262, y=69, z=-195}
+[14Dec2024 18:39:08.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 lost connection: Disconnected
+[14Dec2024 18:39:08.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 left the game
+[14Dec2024 18:39:34.293] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Topy_16[/127.171.178.40:36631] logged in with entity id 1649 at (-258.8526971185553, 69.0, -194.93269334930966)
+[14Dec2024 18:39:34.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 joined the game
+[14Dec2024 18:39:34.383] [Server thread/INFO] [Jade/]: Syncing config to Topy_16 (19202c85-9d4b-3427-b74b-e43523119222)
+[14Dec2024 18:40:32.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Topy_16> nada
+[14Dec2024 18:40:41.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-262, y=69, z=-194}
+[14Dec2024 18:40:49.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! -3.35353415500839,0.41999998688697815,9.684568074634683
+[14Dec2024 18:40:59.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Tiny Proud Soul]
+[14Dec2024 18:40:59.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Slash Blade]
+[14Dec2024 18:41:30.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 drowned
+[14Dec2024 18:41:33.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Topy_16> XD
+[14Dec2024 18:41:35.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Corpse Fly
+[14Dec2024 18:41:40.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Topy_16> ya me deja
+[14Dec2024 18:41:47.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Topy_16> :D
+[14Dec2024 18:41:47.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Topy_16> poco a poco
+[14Dec2024 18:41:54.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Topy_16> esta cargando
+[14Dec2024 18:42:52.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Spider
+[14Dec2024 18:43:10.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Topy_16> mauri?
+[14Dec2024 18:43:19.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> me paran matando
+[14Dec2024 18:43:21.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Topy_16> XD
+[14Dec2024 18:43:23.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-265, y=74, z=-184}
+[14Dec2024 18:43:24.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-270, y=75, z=-187}
+[14Dec2024 18:43:47.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[14Dec2024 18:44:06.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> espera ago de dia y empezamos de nuevo
+[14Dec2024 18:44:15.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Topy_16> XD okok
+[14Dec2024 18:44:27.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set the time to 6000]
+[14Dec2024 18:44:54.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! -6.392443994131156,-1.8013359314284259,8.07984582728021
+[14Dec2024 18:44:58.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[14Dec2024 18:45:18.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! -8.681844133928905,0.0,5.240856779297502
+[14Dec2024 18:45:41.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Stone Age]
+[14Dec2024 18:45:53.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> xd
+[14Dec2024 18:46:05.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Getting an Upgrade]
+[14Dec2024 18:46:49.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Topy_16> SJJS
+[14Dec2024 18:47:00.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Topy_16> hya sirenas no?
+[14Dec2024 18:47:15.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! -10.041412146826985,-0.16610926093821377,-2.37575436600207
+[14Dec2024 18:47:19.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> si
+[14Dec2024 18:47:31.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> por discord habalmos pe
+[14Dec2024 18:47:35.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Topy_16> obvio
