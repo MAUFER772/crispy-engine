@@ -33,6 +33,8 @@
 	disableAdventureModeCasting = false
 
 ["Upgrade Overrides"]
+	#Whether merging scrolls with ink to upgrade them in the Arcane Anvil is enabled.
+	scrollMerging = true
 	#Use these lists to change what items can interact with the Arcane Anvil's upgrade system. This can also be done via datapack.
 	#Upgrade Whitelist. Use an item's id to allow it to be upgraded, ex: "minecraft:iron_sword"
 	upgradeWhitelist = []
@@ -823,12 +825,12 @@
 	[Spells."irons_spellbooks:heal"]
 		Enabled = true
 		School = "irons_spellbooks:holy"
-		MaxLevel = 10
+		MaxLevel = 8
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
-		MinRarity = "COMMON"
+		MinRarity = "UNCOMMON"
 		ManaCostMultiplier = 1.0
 		SpellPowerMultiplier = 1.0
-		CooldownInSeconds = 25.0
+		CooldownInSeconds = 30.0
 		AllowCrafting = true
 
 	[Spells."irons_spellbooks:haste"]

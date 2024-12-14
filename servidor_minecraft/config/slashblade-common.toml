@@ -13,6 +13,9 @@
 	#Determines whether to enable slashblade's PVP.
 	#If enable, player can attack player with SlashBlade.
 	pvp_enable = false
+	#Determines whether to enable slashblade's friendly fire.
+	#If enable, player can attack friendly entity with SlashBlade.
+	friendly_enable = false
 	#Determining the proud soul cost for single summon mirage blade.
 	#Range: > 1
 	summon_sword_cost = 2
