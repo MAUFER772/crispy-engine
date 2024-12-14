@@ -3065,3 +3065,76 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [14Dec2024 19:24:26.716] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/14524, l='ServerLevel[world]', x=-155.74, y=88.00, z=-821.58] died, message: 'Unemployed was turned to ice by Ice Dragon'
 [14Dec2024 19:25:50.571] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/14433, l='ServerLevel[world]', x=-223.19, y=82.00, z=-823.64] died, message: 'Nitwit was frozen by Ice Dragon'
 [14Dec2024 19:28:57.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Dark Metallurgy]
+[14Dec2024 19:29:36.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Frosted Prison]
+[14Dec2024 19:29:39.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Frosted Prison]
+[14Dec2024 19:30:14.863] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[14Dec2024 19:30:14.864] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[14Dec2024 19:32:02.373] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/19869, l='ServerLevel[world]', x=-176.21, y=79.00, z=-770.52] died, message: 'Weaponsmith was slain by Ice Dragon'
+[14Dec2024 19:33:10.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Topy_16 to Maufer772]
+[14Dec2024 19:38:29.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> xd
+[14Dec2024 19:40:07.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Mine? Mine? Mine?]
+[14Dec2024 19:41:23.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Diamonds!]
+[14Dec2024 19:42:50.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [It Belongs in a Museum]
+[14Dec2024 19:43:41.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Suit Up]
+[14Dec2024 19:50:39.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Monster Hunter]
+[14Dec2024 19:51:41.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 fell from a high place
+[14Dec2024 19:51:57.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[14Dec2024 19:52:55.072] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/26870, l='ServerLevel[world]', x=888.74, y=100.00, z=-778.50] died, message: 'Unemployed was frozen by Ice Dragon'
+[14Dec2024 19:53:10.912] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Botanist'/26958, l='ServerLevel[world]', x=892.38, y=112.00, z=-768.51] died, message: 'Botanist was frozen by Ice Dragon'
+[14Dec2024 19:53:18.914] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/26871, l='ServerLevel[world]', x=873.71, y=131.44, z=-775.60] died, message: 'Unemployed was slain by Ice Dragon'
+[14Dec2024 19:53:55.060] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/27010, l='ServerLevel[world]', x=899.35, y=94.24, z=-821.37] died, message: 'Fisherman was slain by Ice Dragon'
+[14Dec2024 19:54:13.610] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27091, l='ServerLevel[world]', x=901.30, y=92.00, z=-822.53] died, message: 'Unemployed was slain by Ice Dragon'
+[14Dec2024 19:55:18.557] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Botanist'/26776, l='ServerLevel[world]', x=854.50, y=151.00, z=-665.22] died, message: 'Botanist was slain by Froststalker'
+[14Dec2024 19:55:42.978] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27310, l='ServerLevel[world]', x=911.37, y=62.00, z=-857.28] died, message: 'Unemployed suffocated in a wall'
+[14Dec2024 19:56:33.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Rotten to the Core]
+[14Dec2024 19:56:37.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Rotten to the Core]
+[14Dec2024 19:57:18.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Book of Monsters]
+[14Dec2024 20:00:27.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Amateur Archaeologist]
+[14Dec2024 20:05:52.709] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27013, l='ServerLevel[world]', x=894.23, y=103.50, z=-791.23] died, message: 'Unemployed was pricked to death'
+[14Dec2024 20:06:08.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Acquire Hardware]
+[14Dec2024 20:06:35.811] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27205, l='ServerLevel[world]', x=910.88, y=79.50, z=-860.50] died, message: 'Unemployed was pricked to death'
+[14Dec2024 20:10:27.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Topy_16 to Maufer772]
+[14Dec2024 20:10:32.069] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/26857, l='ServerLevel[world]', x=850.45, y=105.00, z=-757.62] died, message: 'Unemployed was frozen by Ice Dragon'
+[14Dec2024 20:11:02.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was turned to ice by Ice Dragon
+[14Dec2024 20:11:11.463] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27014, l='ServerLevel[world]', x=940.68, y=102.50, z=-796.32] died, message: 'Unemployed was turned to ice by Ice Dragon'
+[14Dec2024 20:11:16.463] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/26970, l='ServerLevel[world]', x=930.14, y=99.00, z=-799.35] died, message: 'Unemployed was slain by Ice Dragon'
+[14Dec2024 20:11:25.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Topy_16 to Maufer772]
+[14Dec2024 20:12:11.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Topy_16 to Maufer772]
+[14Dec2024 20:12:27.558] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/27037, l='ServerLevel[world]', x=962.53, y=100.00, z=-830.33] died, message: 'Scribe hit the ground too hard whilst trying to escape Ice Dragon'
+[14Dec2024 20:12:42.210] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/26971, l='ServerLevel[world]', x=941.89, y=119.05, z=-801.91] died, message: 'Fisherman was slain by Ice Dragon'
+[14Dec2024 20:13:11.166] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/26967, l='ServerLevel[world]', x=943.45, y=111.50, z=-800.45] died, message: 'Nitwit was pricked to death'
+[14Dec2024 20:13:24.214] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Botanist'/27090, l='ServerLevel[world]', x=891.30, y=112.50, z=-769.64] died, message: 'Botanist was pricked to death'
+[14Dec2024 20:14:37.059] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/27092, l='ServerLevel[world]', x=930.39, y=112.00, z=-790.50] died, message: 'Fisherman was slain by Ice Dragon'
+[14Dec2024 20:16:09.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> You shouldn't be here.
+[14Dec2024 20:16:11.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> I am to succumb to this infection soon.
+[14Dec2024 20:16:15.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> Persistent, aren't you?
+[14Dec2024 20:16:17.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> Well, if you want to hear how I ended up like this, then stay.
+[14Dec2024 20:16:21.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> But if this infection takes me over, I want you to kill me.
+[14Dec2024 20:16:26.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> Oh well, alright.
+[14Dec2024 20:16:28.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> Not very long ago, there was another player, just like you.
+[14Dec2024 20:16:32.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> I gave him the name "Villager #1202".
+[14Dec2024 20:16:37.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> But I quicky found that he was... different.
+[14Dec2024 20:17:14.116] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/27011, l='ServerLevel[world]', x=909.70, y=91.00, z=-834.59] died, message: 'Fisherman was turned to ice by Ice Dragon'
+[14Dec2024 20:17:15.712] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/27202, l='ServerLevel[world]', x=913.38, y=93.55, z=-833.56] died, message: 'Scribe was slain by Ice Dragon'
+[14Dec2024 20:17:30.016] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/26969, l='ServerLevel[world]', x=960.70, y=99.00, z=-827.30] died, message: 'Unemployed was turned to ice by Ice Dragon'
+[14Dec2024 20:17:59.189] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/27029, l='ServerLevel[world]', x=911.94, y=92.35, z=-831.28]
+[14Dec2024 20:17:59.190] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/27030, l='ServerLevel[world]', x=911.51, y=91.81, z=-830.28]
+[14Dec2024 20:17:59.192] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/27033, l='ServerLevel[world]', x=911.38, y=92.62, z=-833.82]
+[14Dec2024 20:17:59.197] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/27034, l='ServerLevel[world]', x=910.31, y=92.22, z=-833.96]
+[14Dec2024 20:17:59.198] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/27035, l='ServerLevel[world]', x=909.37, y=91.94, z=-834.08]
+[14Dec2024 20:17:59.198] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/27036, l='ServerLevel[world]', x=908.16, y=91.68, z=-834.24]
+[14Dec2024 20:18:36.375] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/34667, l='ServerLevel[world]', x=1128.37, y=64.00, z=-1263.28] died, message: 'Unemployed suffocated in a wall'
+[14Dec2024 20:24:39.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! 8.599164266171556,0.8322033533667508,5.256988124765712
+[14Dec2024 20:25:32.569] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/38551, l='ServerLevel[world]', x=1881.72, y=102.00, z=-914.37] died, message: 'Unemployed suffocated in a wall'
+[14Dec2024 20:25:44.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 burned to death
+[14Dec2024 20:26:02.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[14Dec2024 20:26:09.623] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/39571, l='ServerLevel[world]', x=1900.93, y=119.00, z=-826.63] died, message: 'Unemployed suffocated in a wall'
+[14Dec2024 20:26:17.825] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/39325, l='ServerLevel[world]', x=1954.37, y=95.00, z=-861.28] died, message: 'Unemployed suffocated in a wall'
+[14Dec2024 20:33:56.231] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[14Dec2024 20:33:56.898] [Server thread/INFO] [naturescompass/]: Search succeeded: 3018 radius, 3255 samples
+[14Dec2024 20:38:13.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Left hanging]
+[14Dec2024 20:40:48.587] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/44446, l='ServerLevel[world]', x=1318.36, y=98.50, z=-434.18] died, message: 'Unemployed suffocated in a wall'
+[14Dec2024 20:43:06.190] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[14Dec2024 20:43:06.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[14Dec2024 20:44:20.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 lost connection: Disconnected
+[14Dec2024 20:44:20.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 left the game
