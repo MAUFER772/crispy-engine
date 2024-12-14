@@ -3057,3 +3057,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [14Dec2024 19:15:10.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Sweet Dreams]
 [14Dec2024 19:15:12.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Sweet Dreams]
 [14Dec2024 19:16:25.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Tools of the Trade]
+[14Dec2024 19:19:33.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Amateur Archaeologist]
+[14Dec2024 19:22:53.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Suit Up]
+[14Dec2024 19:22:57.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Ice Bucket Challenge]
+[14Dec2024 19:24:13.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Book of Monsters]
+[14Dec2024 19:24:18.917] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/14520, l='ServerLevel[world]', x=-166.49, y=88.50, z=-811.22] died, message: 'Unemployed walked into a cactus whilst trying to escape Ice Dragon'
+[14Dec2024 19:24:26.716] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/14524, l='ServerLevel[world]', x=-155.74, y=88.00, z=-821.58] died, message: 'Unemployed was turned to ice by Ice Dragon'
+[14Dec2024 19:25:50.571] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/14433, l='ServerLevel[world]', x=-223.19, y=82.00, z=-823.64] died, message: 'Nitwit was frozen by Ice Dragon'
+[14Dec2024 19:28:57.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Dark Metallurgy]
