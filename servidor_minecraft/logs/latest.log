@@ -3138,3 +3138,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [14Dec2024 20:43:06.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
 [14Dec2024 20:44:20.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 lost connection: Disconnected
 [14Dec2024 20:44:20.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 left the game
+[14Dec2024 21:55:53.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[14Dec2024 21:55:53.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Dec2024 21:55:53.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Dec2024 21:55:53.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Dec2024 21:55:53.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Dec2024 21:55:54.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[14Dec2024 21:55:54.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Dec2024 21:55:54.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[14Dec2024 21:55:54.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Dec2024 21:55:54.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Dec2024 21:55:54.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[14Dec2024 21:55:54.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Dec2024 21:55:54.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[14Dec2024 21:55:54.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Dec2024 21:55:54.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14Dec2024 21:55:54.547] [Server thread/INFO] [Framework/]: Unloading server configs...
+[14Dec2024 21:55:54.548] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[14Dec2024 21:55:54.553] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
