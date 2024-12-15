@@ -102,3 +102,20 @@
 [15Dec2024 00:41:26.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
 [15Dec2024 00:41:45.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
 [15Dec2024 00:42:40.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set the time to 1000]
+[15Dec2024 00:54:40.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has completed the challenge [Back To Hell]
+[15Dec2024 00:54:52.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! 9.877943764876477,-2.0554624345250403,0.9905911878713596
+[15Dec2024 00:55:02.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! 8.104483713577906,-5.464159374955443,-2.7638865427635437
+[15Dec2024 00:57:43.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[15Dec2024 00:59:29.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[15Dec2024 00:59:53.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[15Dec2024 00:59:53.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[15Dec2024 01:00:08.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.62.66.125:51049] logged in with entity id 32461 at (-860.6333710003001, 120.0, 771.9940120048221)
+[15Dec2024 01:00:08.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[15Dec2024 01:00:08.767] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[15Dec2024 01:11:01.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set the time to 1000]
+[15Dec2024 01:11:19.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[15Dec2024 01:11:22.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Cyclops
+[15Dec2024 01:11:31.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[15Dec2024 01:12:34.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[15Dec2024 01:12:34.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [My Name is Nobody]
+[15Dec2024 01:12:54.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
