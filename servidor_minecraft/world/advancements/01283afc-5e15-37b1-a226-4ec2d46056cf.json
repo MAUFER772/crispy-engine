@@ -2796,6 +2796,12 @@
     },
     "done": true
   },
+  "slashblade:arts/combo_a": {
+    "criteria": {
+      "customtrigger": "2024-12-15 01:40:21 +0000"
+    },
+    "done": true
+  },
   "slashblade:recipes/combat/tagayasan": {
     "criteria": {
       "has_slashblade_wood": "2024-12-15 01:33:37 +0000"

@@ -135,3 +135,5 @@
 [15Dec2024 01:34:20.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Blade Arts -Aerial Rave B-       ]
 [15Dec2024 01:34:23.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Abilities -Kick Jump-            ]
 [15Dec2024 01:40:21.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Blade Arts -Combo A-              ]
+[15Dec2024 01:45:00.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[15Dec2024 01:45:00.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
