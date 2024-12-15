@@ -80,3 +80,25 @@
 [15Dec2024 00:31:36.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl left the game
 [15Dec2024 00:32:22.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set the time to 1000]
 [15Dec2024 00:32:31.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[15Dec2024 00:33:16.883] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mimy_pl[/127.171.178.40:38633] logged in with entity id 26128 at (-840.0939827205569, 104.0, 741.4875000119209)
+[15Dec2024 00:33:16.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl joined the game
+[15Dec2024 00:33:16.980] [Server thread/INFO] [Jade/]: Syncing config to mimy_pl (1f3c2981-9a91-3e2d-8047-2da49bb5d539)
+[15Dec2024 00:33:47.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mimy_pl> me dejaron
+[15Dec2024 00:33:55.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> nooo
+[15Dec2024 00:34:08.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> y el andy?
+[15Dec2024 00:34:17.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mimy_pl> se fue la net
+[15Dec2024 00:34:19.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mimy_pl> f
+[15Dec2024 00:34:22.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mimy_pl> nos iremos
+[15Dec2024 00:34:38.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> ok..
+[15Dec2024 00:35:11.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Diamonds!]
+[15Dec2024 00:35:44.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mimy_pl> falta ventana
+[15Dec2024 00:35:52.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mimy_pl> pero ya está la casa temporal
+[15Dec2024 00:36:34.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> me dare untiempo y aplanare la montaña
+[15Dec2024 00:38:35.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mimy_pl lost connection: Disconnected
+[15Dec2024 00:38:35.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl left the game
+[15Dec2024 00:40:08.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[15Dec2024 00:40:31.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[15Dec2024 00:40:35.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[15Dec2024 00:41:26.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[15Dec2024 00:41:45.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[15Dec2024 00:42:40.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set the time to 1000]
