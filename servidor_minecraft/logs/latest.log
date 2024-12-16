@@ -512,3 +512,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [16Dec2024 22:43:31.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Blade Arts -Combo C-              ]
 [16Dec2024 22:48:54.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Abilities -Enemy Step-           ]
 [16Dec2024 22:55:20.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to MigueLC1110]
+[16Dec2024 22:59:21.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[16Dec2024 23:00:19.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[16Dec2024 23:01:45.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 fell from a high place
+[16Dec2024 23:06:32.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Maximum extension of Combo B]

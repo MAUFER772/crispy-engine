@@ -4600,3 +4600,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [16Dec2024 22:52:09.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Dec2024 22:52:09.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Dec2024 22:55:20.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to MigueLC1110]
+[16Dec2024 22:57:09.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 22:57:09.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 22:59:21.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[16Dec2024 23:00:19.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[16Dec2024 23:01:45.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 fell from a high place
+[16Dec2024 23:01:46.781] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[16Dec2024 23:02:09.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 23:02:09.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 23:04:30.225] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['MigueLC1110'/76, l='ServerLevel[world]', x=-876.65, y=31.00, z=750.31]]
+[16Dec2024 23:06:32.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Maximum extension of Combo B]
