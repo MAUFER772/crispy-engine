@@ -570,3 +570,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [16Dec2024 23:33:51.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
 [16Dec2024 23:34:52.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Dragonslayer]
 [16Dec2024 23:34:57.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[16Dec2024 23:40:55.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set the time to 1000]
+[16Dec2024 23:43:09.478] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[16Dec2024 23:43:45.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[16Dec2024 23:46:25.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[16Dec2024 23:46:58.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
