@@ -2952,6 +2952,12 @@
     },
     "done": true
   },
+  "slashblade:arts/combo_b_max": {
+    "criteria": {
+      "customtrigger": "2024-12-16 23:06:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2024-12-16 22:54:04 +0000"
