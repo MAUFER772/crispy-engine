@@ -4672,3 +4672,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [16Dec2024 23:15:46.458] [Server thread/DEBUG] [twilightforest/]: Player MigueLC1110 (81d8890b-012e-3137-b928-071e5127cc35) respawned and received items held in storage
 [16Dec2024 23:16:12.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was slain by Ferrous Wroughtnaut
 [16Dec2024 23:16:13.541] [Server thread/DEBUG] [twilightforest/]: Player MigueLC1110 (81d8890b-012e-3137-b928-071e5127cc35) respawned and received items held in storage
+[16Dec2024 23:17:09.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 23:17:09.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 23:17:24.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was slain by Ferrous Wroughtnaut
+[16Dec2024 23:17:25.541] [Server thread/DEBUG] [twilightforest/]: Player MigueLC1110 (81d8890b-012e-3137-b928-071e5127cc35) respawned and received items held in storage
+[16Dec2024 23:17:48.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Ferrous Wroughtnaut
+[16Dec2024 23:17:50.329] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[16Dec2024 23:18:24.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was slain by Ferrous Wroughtnaut
+[16Dec2024 23:18:26.254] [Server thread/DEBUG] [twilightforest/]: Player MigueLC1110 (81d8890b-012e-3137-b928-071e5127cc35) respawned and received items held in storage
+[16Dec2024 23:18:42.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Ferrous Wroughtnaut
+[16Dec2024 23:18:43.868] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[16Dec2024 23:18:55.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was slain by Ferrous Wroughtnaut
+[16Dec2024 23:18:56.871] [Server thread/DEBUG] [twilightforest/]: Player MigueLC1110 (81d8890b-012e-3137-b928-071e5127cc35) respawned and received items held in storage
+[16Dec2024 23:19:01.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Ferrous Wroughtnaut
+[16Dec2024 23:19:02.554] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[16Dec2024 23:19:23.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was slain by Ferrous Wroughtnaut
+[16Dec2024 23:19:24.606] [Server thread/DEBUG] [twilightforest/]: Player MigueLC1110 (81d8890b-012e-3137-b928-071e5127cc35) respawned and received items held in storage
+[16Dec2024 23:20:03.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Ferrous Wroughtnaut
+[16Dec2024 23:20:05.020] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[16Dec2024 23:21:06.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Ferrous Wroughtnaut
+[16Dec2024 23:21:07.743] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[16Dec2024 23:21:14.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was slain by Ferrous Wroughtnaut
+[16Dec2024 23:21:16.051] [Server thread/DEBUG] [twilightforest/]: Player MigueLC1110 (81d8890b-012e-3137-b928-071e5127cc35) respawned and received items held in storage
+[16Dec2024 23:22:09.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 23:22:09.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 23:22:11.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was slain by Ferrous Wroughtnaut
+[16Dec2024 23:22:13.121] [Server thread/DEBUG] [twilightforest/]: Player MigueLC1110 (81d8890b-012e-3137-b928-071e5127cc35) respawned and received items held in storage
+[16Dec2024 23:24:01.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 has completed the challenge [Just a Flesh Wound]
+[16Dec2024 23:24:52.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MigueLC1110 lost connection: Disconnected
+[16Dec2024 23:24:52.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 left the game
+[16Dec2024 23:25:29.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[16Dec2024 23:26:22.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
