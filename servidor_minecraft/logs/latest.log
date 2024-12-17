@@ -556,3 +556,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [17Dec2024 02:23:27.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported MigueLC1110 to Topy_16]
 [17Dec2024 02:23:35.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the weather to clear]
 [17Dec2024 02:23:37.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported MigueLC1110 to Maufer772]
+[17Dec2024 02:25:33.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Tools of the Trade]
+[17Dec2024 02:25:53.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was pierced by Necromancer's icicle
+[17Dec2024 02:26:11.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 has made the advancement [Into Darkness]
+[17Dec2024 02:27:39.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported mimy_pl to Topy_16]
+[17Dec2024 02:28:29.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to MigueLC1110]
+[17Dec2024 02:28:30.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Into Darkness]
+[17Dec2024 02:28:43.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Acolyte
+[17Dec2024 02:28:50.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[17Dec2024 02:28:56.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to MigueLC1110]
+[17Dec2024 02:29:57.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Taking from the Dead]
+[17Dec2024 02:30:22.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[17Dec2024 02:30:33.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[17Dec2024 02:31:03.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by The Damned
+[17Dec2024 02:31:11.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to mimy_pl]
+[17Dec2024 02:34:34.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mimy_pl lost connection: Disconnected
+[17Dec2024 02:34:34.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl left the game
+[17Dec2024 02:35:06.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by The Damned
+[17Dec2024 02:35:06.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Condemned To Die]
+[17Dec2024 02:35:16.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[17Dec2024 02:35:23.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mimy_pl[/127.129.39.206:43041] logged in with entity id 44827 at (-1126.6301466693576, 68.0, 1137.610025842342)
+[17Dec2024 02:35:23.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl joined the game
+[17Dec2024 02:35:23.734] [Server thread/INFO] [Jade/]: Syncing config to mimy_pl (1f3c2981-9a91-3e2d-8047-2da49bb5d539)

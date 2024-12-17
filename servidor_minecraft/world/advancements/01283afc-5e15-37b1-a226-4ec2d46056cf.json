@@ -3236,9 +3236,33 @@
     },
     "done": true
   },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2024-12-17 02:28:30 +0000"
+    },
+    "done": true
+  },
+  "apollyon:condemned_to_die": {
+    "criteria": {
+      "condemned_to_die": "2024-12-17 02:35:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2024-12-17 02:18:50 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2024-12-17 02:29:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-17 02:33:21 +0000"
     },
     "done": true
   },
@@ -3251,6 +3275,24 @@
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2024-12-17 01:34:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-17 02:24:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-17 02:32:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-17 02:24:41 +0000"
     },
     "done": true
   },
