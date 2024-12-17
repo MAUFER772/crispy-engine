@@ -402,3 +402,53 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [17Dec2024 01:12:16.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mimy_pl[/127.129.39.206:41429] logged in with entity id 1190 at (-891.9433123105074, 88.0, 772.7741878090267)
 [17Dec2024 01:12:16.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl joined the game
 [17Dec2024 01:12:16.666] [Server thread/INFO] [Jade/]: Syncing config to mimy_pl (1f3c2981-9a91-3e2d-8047-2da49bb5d539)
+[17Dec2024 01:14:24.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by The Damned
+[17Dec2024 01:15:43.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[17Dec2024 01:15:57.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to mimy_pl]
+[17Dec2024 01:16:08.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Topy_16 to Maufer772]
+[17Dec2024 01:18:05.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! -6.801508739381006,-0.756759288177264,-7.5129265558251745
+[17Dec2024 01:18:51.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved wrongly!
+[17Dec2024 01:22:07.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was incinerated by Fire Dragon
+[17Dec2024 01:22:14.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 hit the ground too hard whilst trying to escape Fire Dragon
+[17Dec2024 01:22:27.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[17Dec2024 01:22:29.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl was slain by Fire Dragon
+[17Dec2024 01:23:02.710] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mimy_pl lost connection: Timed out
+[17Dec2024 01:23:02.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl left the game
+[17Dec2024 01:23:26.600] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mimy_pl[/127.129.39.206:39125] logged in with entity id 8317 at (-249.48008525455506, 70.25220334025373, -177.65957512669627)
+[17Dec2024 01:23:26.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl joined the game
+[17Dec2024 01:23:26.713] [Server thread/INFO] [Jade/]: Syncing config to mimy_pl (1f3c2981-9a91-3e2d-8047-2da49bb5d539)
+[17Dec2024 01:23:55.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 burned to death
+[17Dec2024 01:23:56.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[17Dec2024 01:24:39.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Topy_16 to Maufer772]
+[17Dec2024 01:25:13.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported mimy_pl to Maufer772]
+[17Dec2024 01:25:53.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl was incinerated by Fire Dragon
+[17Dec2024 01:26:09.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -0.2765358527663011,8.18842135792795,-6.127877487286014
+[17Dec2024 01:26:10.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 burned to death
+[17Dec2024 01:26:39.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported mimy_pl to Maufer772]
+[17Dec2024 01:26:51.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Topy_16 to Maufer772]
+[17Dec2024 01:27:25.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl was incinerated by Fire Dragon
+[17Dec2024 01:27:33.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was turned into KFC by Fire Dragon
+[17Dec2024 01:27:59.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported mimy_pl to Maufer772]
+[17Dec2024 01:28:08.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Topy_16 to Maufer772]
+[17Dec2024 01:28:24.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was incinerated by Fire Dragon
+[17Dec2024 01:28:33.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to mimy_pl]
+[17Dec2024 01:30:44.205] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 lost connection: Disconnected
+[17Dec2024 01:30:44.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 left the game
+[17Dec2024 01:33:27.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mimy_pl lost connection: Timed out
+[17Dec2024 01:33:27.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl left the game
+[17Dec2024 01:33:59.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[17Dec2024 01:37:42.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[17Dec2024 01:38:31.958] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5a903528[id=<null>,name=MigueLC1110,properties={},legacy=false] (/127.31.205.144:40341) lost connection: Disconnected
+[17Dec2024 01:38:44.368] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MigueLC1110[/127.31.205.144:33121] logged in with entity id 16270 at (-872.8142930053474, 26.0, 755.3289671693644)
+[17Dec2024 01:38:44.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 joined the game
+[17Dec2024 01:38:44.392] [Server thread/INFO] [Jade/]: Syncing config to MigueLC1110 (81d8890b-012e-3137-b928-071e5127cc35)
+[17Dec2024 01:38:57.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> miguel unete al discord pe
+[17Dec2024 01:39:30.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 fell from a high place
+[17Dec2024 01:39:46.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> miguel?
+[17Dec2024 01:40:00.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to MigueLC1110]
+[17Dec2024 01:40:51.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MigueLC1110> que
+[17Dec2024 01:41:01.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> y esa musica
+[17Dec2024 01:41:06.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MigueLC1110> ohno
+[17Dec2024 01:41:09.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> habla por discord nomas
+[17Dec2024 01:41:09.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MigueLC1110> se escucha?
+[17Dec2024 01:42:52.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -8.228613691310557,-5.0,2.8620250553397

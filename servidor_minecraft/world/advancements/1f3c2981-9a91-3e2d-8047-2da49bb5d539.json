@@ -65,6 +65,8 @@
       "minecraft:deep_ocean": "2024-12-14 23:56:21 +0000",
       "minecraft:birch_forest": "2024-12-14 23:48:48 +0000",
       "minecraft:beach": "2024-12-14 23:49:30 +0000",
+      "minecraft:river": "2024-12-17 01:21:55 +0000",
+      "minecraft:forest": "2024-12-17 01:19:35 +0000",
       "minecraft:ocean": "2024-12-14 23:55:45 +0000",
       "minecraft:plains": "2024-12-15 00:04:54 +0000"
     },
@@ -1385,6 +1387,8 @@
       "highland": "2024-12-15 00:04:15 +0000",
       "jacaranda_glade": "2024-12-15 00:04:25 +0000",
       "orchard": "2024-12-15 00:02:45 +0000",
+      "overgrown_greens": "2024-12-17 01:24:51 +0000",
+      "redwood_forest": "2024-12-17 01:24:52 +0000",
       "dune_beach": "2024-12-14 23:58:15 +0000",
       "prairie": "2024-12-15 00:05:29 +0000"
     },
@@ -1573,6 +1577,90 @@
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2024-12-15 00:27:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2024-12-17 01:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2024-12-17 01:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-17 01:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-17 01:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-17 01:26:49 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_wood": "2024-12-17 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-17 01:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-17 01:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-17 01:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-17 01:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-17 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-17 01:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-17 01:26:49 +0000"
     },
     "done": true
   },
