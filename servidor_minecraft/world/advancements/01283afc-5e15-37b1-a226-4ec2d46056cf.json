@@ -1425,6 +1425,7 @@
       "spider_nest": "2024-12-16 23:31:06 +0000",
       "redwood_forest": "2024-12-16 23:43:14 +0000",
       "dune_beach": "2024-12-15 00:02:16 +0000",
+      "pasture": "2024-12-17 02:04:34 +0000",
       "lavender_field": "2024-12-15 00:02:30 +0000",
       "fir_clearing": "2024-12-14 23:57:02 +0000",
       "pumpkin_patch": "2024-12-14 19:41:55 +0000",
@@ -1439,6 +1440,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-17 01:59:57 +0000",
       "minecraft:spider": "2024-12-15 01:20:16 +0000",
       "minecraft:zombie": "2024-12-14 19:11:30 +0000"
     },

@@ -452,3 +452,93 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [17Dec2024 01:41:09.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> habla por discord nomas
 [17Dec2024 01:41:09.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MigueLC1110> se escucha?
 [17Dec2024 01:42:52.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -8.228613691310557,-5.0,2.8620250553397
+[17Dec2024 01:45:48.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 has made the advancement [Isn't It Iron Pick]
+[17Dec2024 01:46:32.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 has made the advancement [Monster Hunter]
+[17Dec2024 01:46:54.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was shot by Skeleton
+[17Dec2024 01:46:55.655] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@10a41bcf[id=<null>,name=Topy_16,properties={},legacy=false] (/127.129.39.206:45447) lost connection: Disconnected
+[17Dec2024 01:47:09.664] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Topy_16[/127.129.39.206:56583] logged in with entity id 18134 at (-1171.065354725256, 63.0, 465.69999998807907)
+[17Dec2024 01:47:09.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 joined the game
+[17Dec2024 01:47:09.678] [Server thread/INFO] [Jade/]: Syncing config to Topy_16 (19202c85-9d4b-3427-b74b-e43523119222)
+[17Dec2024 01:47:37.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was slain by Fire Dragon
+[17Dec2024 01:47:47.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[17Dec2024 01:48:07.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[17Dec2024 01:48:11.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was shot by Skeleton
+[17Dec2024 01:48:11.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[17Dec2024 01:48:29.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 drowned
+[17Dec2024 01:48:45.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 has made the advancement [Deceived Hopes]
+[17Dec2024 01:48:46.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Topy_16 to Maufer772]
+[17Dec2024 01:49:14.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was turned into KFC by Fire Dragon
+[17Dec2024 01:50:26.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[17Dec2024 01:50:54.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! 1.8015169835390452,0.020575296817597177,-10.038558269720056
+[17Dec2024 01:51:03.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! -8.775084532241863,-2.176759275064242,4.731068732779761
+[17Dec2024 01:51:13.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Baby Skeleton
+[17Dec2024 01:51:57.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Zombie Bruiser
+[17Dec2024 01:52:12.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Zombie Lumberjack
+[17Dec2024 01:52:18.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[17Dec2024 01:52:20.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was turned into KFC by Fire Dragon
+[17Dec2024 01:52:21.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MigueLC1110 lost connection: Disconnected
+[17Dec2024 01:52:21.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 left the game
+[17Dec2024 01:52:49.555] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@52c23d29[id=<null>,name=MigueLC1110,properties={},legacy=false] (/127.31.205.144:48307) lost connection: Disconnected
+[17Dec2024 01:52:52.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[17Dec2024 01:53:02.569] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MigueLC1110[/127.31.205.144:53203] logged in with entity id 21529 at (-879.0016569676847, 1.0, 749.3000000119209)
+[17Dec2024 01:53:02.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 joined the game
+[17Dec2024 01:53:02.641] [Server thread/INFO] [Jade/]: Syncing config to MigueLC1110 (81d8890b-012e-3137-b928-071e5127cc35)
+[17Dec2024 01:53:03.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[17Dec2024 01:53:05.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was slain by Fire Dragon
+[17Dec2024 01:53:44.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was slain by Fire Dragon
+[17Dec2024 01:54:00.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was turned into KFC by Fire Dragon
+[17Dec2024 01:54:09.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was burnt to a crisp whilst fighting Fire Dragon
+[17Dec2024 01:54:14.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[17Dec2024 01:54:26.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[17Dec2024 01:54:31.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[17Dec2024 01:54:40.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported MigueLC1110 to Maufer772]
+[17Dec2024 01:54:56.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[17Dec2024 01:55:05.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was turned into KFC by Fire Dragon
+[17Dec2024 01:55:36.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[17Dec2024 01:55:59.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[17Dec2024 01:56:01.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[17Dec2024 01:56:10.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Topy_16 to Maufer772]
+[17Dec2024 01:56:21.475] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mimy_pl[/127.129.39.206:36819] logged in with entity id 24540 at (-1171.70281832576, 63.0, 464.0289760585666)
+[17Dec2024 01:56:21.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl joined the game
+[17Dec2024 01:56:21.495] [Server thread/INFO] [Jade/]: Syncing config to mimy_pl (1f3c2981-9a91-3e2d-8047-2da49bb5d539)
+[17Dec2024 01:56:23.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported MigueLC1110 to Maufer772]
+[17Dec2024 01:56:48.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-876, y=126, z=691} BlockPos{x=-877, y=124, z=691}
+[17Dec2024 01:56:59.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was shot by Skeleton
+[17Dec2024 01:57:03.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to mimy_pl]
+[17Dec2024 01:57:58.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Zombie
+[17Dec2024 01:58:00.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Topy_16 a server operator
+[17Dec2024 01:58:33.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported MigueLC1110 to Maufer772]
+[17Dec2024 01:59:18.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! 8.288013201117792,-5.0,-2.759854839938612
+[17Dec2024 01:59:36.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! 8.115286420799748,0.7531999805212024,6.219092666740153
+[17Dec2024 02:00:03.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[17Dec2024 02:00:19.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported mimy_pl to Topy_16]
+[17Dec2024 02:00:21.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl was shot by Pillager
+[17Dec2024 02:00:31.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported mimy_pl to Topy_16]
+[17Dec2024 02:00:50.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was turned into KFC by Fire Dragon
+[17Dec2024 02:01:10.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported MigueLC1110 to Topy_16]
+[17Dec2024 02:02:11.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl has made the advancement [Diamonds!]
+[17Dec2024 02:02:22.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl has made the advancement [Tools of the Trade]
+[17Dec2024 02:02:26.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 burned to death
+[17Dec2024 02:02:33.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported MigueLC1110 to Topy_16]
+[17Dec2024 02:07:26.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Bison
+[17Dec2024 02:07:37.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! 5.341453406195569,-1.0013359791121417,-8.453057769050929
+[17Dec2024 02:07:37.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2144ms or 42 ticks behind
+[17Dec2024 02:08:16.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to mimy_pl]
+[17Dec2024 02:08:20.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was shot by Skeleton
+[17Dec2024 02:08:55.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Bison
+[17Dec2024 02:09:03.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[17Dec2024 02:09:45.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was turned into KFC by Fire Dragon
+[17Dec2024 02:10:07.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was shot by Skeleton
+[17Dec2024 02:10:15.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Bison
+[17Dec2024 02:10:19.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Bison
+[17Dec2024 02:10:19.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to mimy_pl]
+[17Dec2024 02:10:31.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[17Dec2024 02:10:32.214] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1129, y=68, z=1133} BlockPos{x=-1129, y=66, z=1134}
+[17Dec2024 02:10:37.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl hit the ground too hard
+[17Dec2024 02:11:13.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl has made the advancement [Fishy Business]
+[17Dec2024 02:11:14.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was doomed to fall by Skeleton
+[17Dec2024 02:11:46.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was incinerated by Fire Dragon
+[17Dec2024 02:11:56.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was turned into KFC by Fire Dragon
+[17Dec2024 02:12:32.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported MigueLC1110 to Topy_16]
+[17Dec2024 02:12:41.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was blown up by Creeper
+[17Dec2024 02:12:45.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to mimy_pl]
