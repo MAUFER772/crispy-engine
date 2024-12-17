@@ -7365,3 +7365,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [17Dec2024 02:35:23.672] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@248c98aa into net.minecraft.network.Connection@7c4daa0
 [17Dec2024 02:35:23.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl joined the game
 [17Dec2024 02:35:23.734] [Server thread/INFO] [Jade/]: Syncing config to mimy_pl (1f3c2981-9a91-3e2d-8047-2da49bb5d539)
+[17Dec2024 02:35:48.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by The Damned
+[17Dec2024 02:35:49.663] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[17Dec2024 02:35:57.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[17Dec2024 02:36:16.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 has made the advancement [Source of Evil]
+[17Dec2024 02:36:37.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 has made the advancement [Taking from the Dead]
+[17Dec2024 02:36:38.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was slain by Wraith
+[17Dec2024 02:36:41.136] [Server thread/DEBUG] [twilightforest/]: Player MigueLC1110 (81d8890b-012e-3137-b928-071e5127cc35) respawned and received items held in storage
+[17Dec2024 02:37:00.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported MigueLC1110 to Maufer772]
+[17Dec2024 02:37:55.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was shot by Skeleton
+[17Dec2024 02:37:57.380] [Server thread/DEBUG] [twilightforest/]: Player MigueLC1110 (81d8890b-012e-3137-b928-071e5127cc35) respawned and received items held in storage
+[17Dec2024 02:38:10.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Dark Metallurgy]
+[17Dec2024 02:40:23.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 02:40:23.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 02:40:42.396] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['MigueLC1110'/21529, l='ServerLevel[world]', x=-265.50, y=76.00, z=-190.50]]
+[17Dec2024 02:40:55.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was blown up by Creeper
+[17Dec2024 02:40:58.886] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[17Dec2024 02:41:14.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Into Darkness]
+[17Dec2024 02:42:09.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Taking from the Dead]
+[17Dec2024 02:42:10.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Who turned the lights off?]
+[17Dec2024 02:42:35.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -7.6096308027129,-6.465155803629493,1.474915333706349
+[17Dec2024 02:43:11.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Well prepared]
+[17Dec2024 02:43:15.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! 9.506015858247792,-2.847664813149443,1.7079826421941107
+[17Dec2024 02:43:49.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[17Dec2024 02:44:42.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Source of Evil]
+[17Dec2024 02:44:44.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 has made the advancement [Well prepared]
+[17Dec2024 02:45:23.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 02:45:23.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
