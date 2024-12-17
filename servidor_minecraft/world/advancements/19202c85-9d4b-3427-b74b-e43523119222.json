@@ -2489,7 +2489,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-17 02:00:28 +0000",
-      "minecraft:creeper": "2024-12-14 19:50:39 +0000"
+      "minecraft:skeleton": "2024-12-17 02:16:29 +0000",
+      "minecraft:spider": "2024-12-17 02:18:27 +0000",
+      "minecraft:creeper": "2024-12-14 19:50:39 +0000",
+      "minecraft:enderman": "2024-12-17 02:16:06 +0000"
     },
     "done": false
   },
@@ -2805,6 +2808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-17 02:17:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-17 02:00:59 +0000"
@@ -2895,6 +2904,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-17 02:19:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-17 02:00:59 +0000"
@@ -2904,6 +2919,18 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-17 02:00:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_lavender": "2024-12-17 02:16:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-17 02:19:28 +0000"
     },
     "done": true
   },

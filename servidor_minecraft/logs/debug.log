@@ -7092,3 +7092,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [17Dec2024 02:12:41.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was blown up by Creeper
 [17Dec2024 02:12:42.558] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
 [17Dec2024 02:12:45.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to mimy_pl]
+[17Dec2024 02:15:10.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Bison
+[17Dec2024 02:15:11.970] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[17Dec2024 02:15:18.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[17Dec2024 02:15:23.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 02:15:23.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 02:16:16.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl has made the advancement [Getting an Upgrade]
+[17Dec2024 02:17:45.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Decrepit Skeleton
+[17Dec2024 02:17:51.649] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[17Dec2024 02:18:06.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[17Dec2024 02:20:23.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 02:20:23.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 02:21:42.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was slain by Diamond Termite
+[17Dec2024 02:21:43.590] [Server thread/DEBUG] [twilightforest/]: Player MigueLC1110 (81d8890b-012e-3137-b928-071e5127cc35) respawned and received items held in storage
+[17Dec2024 02:21:47.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to mimy_pl]
+[17Dec2024 02:21:55.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[17Dec2024 02:21:58.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported MigueLC1110 to Topy_16]
+[17Dec2024 02:22:02.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported mimy_pl to Topy_16]
+[17Dec2024 02:23:16.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 was slain by Diamond Termite
+[17Dec2024 02:23:17.790] [Server thread/DEBUG] [twilightforest/]: Player MigueLC1110 (81d8890b-012e-3137-b928-071e5127cc35) respawned and received items held in storage
+[17Dec2024 02:23:27.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported MigueLC1110 to Topy_16]
+[17Dec2024 02:23:35.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the weather to clear]
+[17Dec2024 02:23:37.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported MigueLC1110 to Maufer772]
