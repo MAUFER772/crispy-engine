@@ -647,3 +647,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [17Dec2024 03:04:49.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to MigueLC1110]
 [17Dec2024 03:05:25.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Acolyte
 [17Dec2024 03:05:46.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Acolyte
+[17Dec2024 03:06:47.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Corrupted Pillager
+[17Dec2024 03:06:56.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[17Dec2024 03:07:58.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[17Dec2024 03:08:21.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[17Dec2024 03:08:34.225] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1139, y=68, z=1127} BlockPos{x=-1140, y=68, z=1127}
+[17Dec2024 03:08:43.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[17Dec2024 03:09:08.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[17Dec2024 03:09:27.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by The Damned
+[17Dec2024 03:09:30.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to mimy_pl]
+[17Dec2024 03:09:47.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 lost connection: Timed out
+[17Dec2024 03:09:47.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 left the game
+[17Dec2024 03:10:20.954] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MigueLC1110 lost connection: Disconnected
+[17Dec2024 03:10:20.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 left the game
+[17Dec2024 03:10:29.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl was slain by The Damned
+[17Dec2024 03:10:49.964] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Topy_16[/127.129.39.206:58183] logged in with entity id 54434 at (-262.5, 78.0, -189.5)
+[17Dec2024 03:10:49.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 joined the game
+[17Dec2024 03:10:50.008] [Server thread/INFO] [Jade/]: Syncing config to Topy_16 (19202c85-9d4b-3427-b74b-e43523119222)
+[17Dec2024 03:10:54.023] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MigueLC1110[/127.31.205.144:60163] logged in with entity id 54597 at (-1135.300000011921, -21.0, 1140.7125841003203)
+[17Dec2024 03:10:54.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MigueLC1110 joined the game
+[17Dec2024 03:10:54.079] [Server thread/INFO] [Jade/]: Syncing config to MigueLC1110 (81d8890b-012e-3137-b928-071e5127cc35)
+[17Dec2024 03:10:54.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was blown up by Creeper
+[17Dec2024 03:11:04.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported MigueLC1110 to Maufer772]
+[17Dec2024 03:11:31.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to mimy_pl]
+[17Dec2024 03:12:05.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to MigueLC1110]
+[17Dec2024 03:13:52.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl has made the advancement [Monster Hunter]
