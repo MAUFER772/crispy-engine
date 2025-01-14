@@ -513,3 +513,31 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Jan2025 22:42:43.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
 [14Jan2025 22:43:21.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
 [14Jan2025 22:43:48.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has completed the challenge [Was that a Shulker?]
+[14Jan2025 22:46:34.309] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager b4c26c48: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[14Jan2025 22:46:34.336] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager b4c26c48: RandomSpreadSearchWorker succeeded with 761 radius, 9 samples
+[14Jan2025 22:47:04.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:47:21.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:47:52.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:48:12.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[14Jan2025 22:48:44.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was doomed to fall by Propulk
+[14Jan2025 22:48:49.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:48:53.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[14Jan2025 22:49:02.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[14Jan2025 22:50:47.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:51:16.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:51:38.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:52:04.561] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager b4c26c48: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[14Jan2025 22:52:04.934] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager b4c26c48: RandomSpreadSearchWorker succeeded with 4563 radius, 19 samples
+[14Jan2025 22:52:10.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[14Jan2025 22:52:14.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[14Jan2025 22:53:22.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[14Jan2025 22:53:22.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[14Jan2025 22:53:29.137] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.162.20.127:53657] logged in with entity id 42416 at (358.699225300967, 57.0, -33.2878674164941)
+[14Jan2025 22:53:29.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[14Jan2025 22:53:29.165] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[14Jan2025 22:53:49.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 fell out of the world
+[14Jan2025 22:53:59.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[14Jan2025 22:54:01.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[14Jan2025 22:54:13.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[14Jan2025 22:54:18.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[14Jan2025 22:54:44.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]

@@ -5797,9 +5797,9 @@
     },
     "done": true
   },
-  "cataclysm:find_ruined_citadel": {
+  "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
-      "citadel": "2025-01-14 22:26:47 +0000"
+      "has_chorus_fruit": "2025-01-14 22:17:25 +0000"
     },
     "done": true
   },
@@ -5809,33 +5809,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-01-14 22:21:30 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/ender_flu": {
     "criteria": {
       "all_effects": "2025-01-14 22:17:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2025-01-14 22:17:25 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_ender_golem": {
-    "criteria": {
-      "endergolem": "2025-01-14 22:34:46 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/capsid": {
     "criteria": {
       "capsid": "2025-01-14 22:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-14 22:21:30 +0000"
     },
     "done": true
   },
@@ -5860,6 +5848,18 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-01-14 22:21:30 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-01-14 22:26:47 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-01-14 22:34:46 +0000"
     },
     "done": true
   },
