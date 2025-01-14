@@ -320,3 +320,67 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Jan2025 20:46:50.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
 [14Jan2025 20:46:50.676] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
 [14Jan2025 20:55:39.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[14Jan2025 21:04:07.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[14Jan2025 21:04:07.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[14Jan2025 21:04:07.382] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jan2025 21:04:17.050] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.162.20.127:39197] logged in with entity id 5625 at (-1180.3180921763494, 62.0, 1155.258696549616)
+[14Jan2025 21:04:17.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[14Jan2025 21:04:17.143] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[14Jan2025 21:04:42.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[14Jan2025 21:06:48.395] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-956, y=30, z=1385}
+[14Jan2025 21:06:48.395] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-956, y=30, z=1384}
+[14Jan2025 21:07:48.139] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager b4c26c48: ConcentricRingsSearchWorker starting with 100000 max samples
+[14Jan2025 21:07:48.198] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager b4c26c48: ConcentricRingsSearchWorker succeeded with 128 samples
+[14Jan2025 21:09:25.066] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1099, y=8, z=715}
+[14Jan2025 21:09:30.659] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1240, y=10, z=670}
+[14Jan2025 21:09:34.621] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1167, y=-16, z=653}
+[14Jan2025 21:09:35.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2221ms or 44 ticks behind
+[14Jan2025 21:09:43.735] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1143, y=-18, z=563}
+[14Jan2025 21:10:08.839] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/8249, l='ServerLevel[world]', x=-1387.18, y=100.00, z=594.74] died, message: 'Unemployed was turned into KFC by Fire Dragon'
+[14Jan2025 21:10:12.099] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/8140, l='ServerLevel[world]', x=-1381.30, y=101.00, z=592.50] died, message: 'Unemployed was slain by Fire Dragon'
+[14Jan2025 21:10:14.533] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/8141, l='ServerLevel[world]', x=-1397.08, y=99.00, z=600.60] died, message: 'Unemployed burned to death'
+[14Jan2025 21:10:53.263] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1585, y=3, z=603}
+[14Jan2025 21:11:03.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[14Jan2025 21:11:20.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[14Jan2025 21:11:47.520] [Worker-Main-23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1244, y=2, z=111}
+[14Jan2025 21:12:13.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[14Jan2025 21:12:13.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[14Jan2025 21:12:21.712] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.162.20.127:43815] logged in with entity id 10653 at (-1452.300000011921, 70.67675927506424, 321.0033893286529)
+[14Jan2025 21:12:21.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[14Jan2025 21:12:21.748] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[14Jan2025 21:15:07.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[14Jan2025 21:15:29.005] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1503, y=33, z=-635}
+[14Jan2025 21:15:29.006] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1503, y=33, z=-634}
+[14Jan2025 21:16:05.505] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1781, y=23, z=-721}
+[14Jan2025 21:16:05.506] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1780, y=23, z=-721}
+[14Jan2025 21:17:32.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[14Jan2025 21:17:40.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[14Jan2025 21:18:03.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Eye Spy]
+[14Jan2025 21:18:49.514] [Worker-Main-23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-1247, y=-24, z=1459}
+[14Jan2025 21:19:51.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Gave 1 [Milk Bucket] to Topy_16]
+[14Jan2025 21:21:11.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[14Jan2025 21:21:13.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[14Jan2025 21:21:21.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[14Jan2025 21:21:31.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[14Jan2025 21:21:50.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[14Jan2025 21:21:54.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[14Jan2025 21:22:19.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[14Jan2025 21:23:32.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 21:23:32.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Eye Spy]
+[14Jan2025 21:23:38.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 21:24:21.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [The End?]
+[14Jan2025 21:24:22.916] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[14Jan2025 21:24:22.924] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[14Jan2025 21:24:23.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2820ms or 56 ticks behind
+[14Jan2025 21:24:25.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [The End?]
+[14Jan2025 21:24:58.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to -1134.500000, 68.000000, 1136.500000]
+[14Jan2025 21:25:01.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 21:25:02.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 fell from a high place
+[14Jan2025 21:25:43.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 21:25:51.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was killed by Ender Dragon using magic
+[14Jan2025 21:25:54.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 21:25:59.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was killed by Ender Dragon using magic
+[14Jan2025 21:26:06.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[14Jan2025 21:26:52.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 21:27:08.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[14Jan2025 21:27:15.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
