@@ -7624,6 +7624,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-01-14 22:35:16 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_ender_golem": {
     "criteria": {
       "endergolem": "2025-01-14 22:31:04 +0000"
@@ -7633,6 +7639,12 @@
   "alexsmobs:alexsmobs/capsid": {
     "criteria": {
       "capsid": "2025-01-14 22:21:28 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2025-01-14 22:43:48 +0000"
     },
     "done": true
   },
@@ -7669,6 +7681,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-01-14 22:26:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-01-14 22:35:16 +0000"
     },
     "done": true
   },
