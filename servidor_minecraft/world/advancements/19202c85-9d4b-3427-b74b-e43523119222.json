@@ -7639,6 +7639,12 @@
     },
     "done": true
   },
+  "repurposed_structures:strongholds": {
+    "criteria": {
+      "in_stronghold_end": "2025-01-14 23:20:58 +0000"
+    },
+    "done": false
+  },
   "repurposed_structures:ancient_cities": {
     "criteria": {
       "in_ancient_city_end": "2025-01-14 22:56:41 +0000"

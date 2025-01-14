@@ -6412,3 +6412,60 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Jan2025 23:15:35.703] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [14Jan2025 23:15:38.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
 [14Jan2025 23:15:40.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[14Jan2025 23:15:57.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[14Jan2025 23:16:04.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[14Jan2025 23:16:05.013] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[14Jan2025 23:16:23.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[14Jan2025 23:16:25.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[14Jan2025 23:16:28.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[14Jan2025 23:16:39.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[14Jan2025 23:16:40.209] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager b4c26c48: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[14Jan2025 23:16:40.224] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager b4c26c48: RandomSpreadSearchWorker succeeded with 287 radius, 3 samples
+[14Jan2025 23:16:40.624] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[14Jan2025 23:16:53.525] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[14Jan2025 23:16:57.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[14Jan2025 23:17:01.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[14Jan2025 23:17:31.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[14Jan2025 23:17:49.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[14Jan2025 23:17:55.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[14Jan2025 23:18:00.510] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[14Jan2025 23:18:14.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[14Jan2025 23:18:28.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[14Jan2025 23:18:31.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[14Jan2025 23:18:37.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[14Jan2025 23:18:38.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[14Jan2025 23:18:46.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[14Jan2025 23:19:22.073] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager b4c26c48: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[14Jan2025 23:19:22.372] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager b4c26c48: RandomSpreadSearchWorker succeeded with 7544 radius, 46 samples
+[14Jan2025 23:19:36.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[14Jan2025 23:19:44.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 23:19:44.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 23:20:27.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported 2 entities to 6928.500000, 100.000000, -9311.500000]
+[14Jan2025 23:20:29.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 fell from a high place
+[14Jan2025 23:20:30.365] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[14Jan2025 23:20:36.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 23:20:45.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[14Jan2025 23:21:23.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[14Jan2025 23:21:27.833] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[14Jan2025 23:21:29.330] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[14Jan2025 23:21:43.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[14Jan2025 23:22:02.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[14Jan2025 23:22:12.590] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager b4c26c48: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[14Jan2025 23:22:12.708] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager b4c26c48: RandomSpreadSearchWorker succeeded with 1149 radius, 16 samples
+[14Jan2025 23:22:36.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[14Jan2025 23:22:47.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to 6881.070000, 29.970000, -9334.000000]
+[14Jan2025 23:23:10.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported 2 entities to 6096.500000, 100.000000, -8543.500000]
+[14Jan2025 23:23:37.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[14Jan2025 23:23:38.563] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[14Jan2025 23:23:41.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 23:23:55.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[14Jan2025 23:24:00.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[14Jan2025 23:24:01.772] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[14Jan2025 23:24:17.875] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[14Jan2025 23:24:41.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[14Jan2025 23:24:44.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 23:24:44.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 23:25:08.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to 0.500000, 1.000000, 145.500000]
+[14Jan2025 23:25:21.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[14Jan2025 23:25:22.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[14Jan2025 23:25:25.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
