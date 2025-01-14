@@ -5442,3 +5442,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Jan2025 21:50:02.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Gave 30 [Witherbone] to Topy_16]
 [14Jan2025 21:50:57.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
 [14Jan2025 21:53:24.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[14Jan2025 21:54:44.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 21:54:44.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 21:59:44.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 21:59:44.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 22:04:44.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 22:04:44.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

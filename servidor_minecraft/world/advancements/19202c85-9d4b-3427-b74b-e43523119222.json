@@ -7489,6 +7489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-14 21:51:25 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/crimson_banister": {
     "criteria": {
       "has_item": "2025-01-14 21:09:45 +0000"
@@ -7498,6 +7504,12 @@
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-01-14 21:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-14 21:51:25 +0000"
     },
     "done": true
   },
@@ -7519,9 +7531,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-01-14 21:51:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2025-01-14 21:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-14 21:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-14 21:51:25 +0000"
     },
     "done": true
   },
