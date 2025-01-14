@@ -648,3 +648,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Jan2025 23:25:21.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
 [14Jan2025 23:25:22.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
 [14Jan2025 23:25:25.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[14Jan2025 23:25:57.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[14Jan2025 23:26:24.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[14Jan2025 23:26:57.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Applied effect Night Vision to Maufer772]
+[14Jan2025 23:27:16.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[14Jan2025 23:27:48.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[14Jan2025 23:31:06.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -8034.1371227009695,-63.67647087614428,8180.9705314500725
+[14Jan2025 23:33:10.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 23:33:47.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Timed out
+[14Jan2025 23:33:47.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[14Jan2025 23:34:42.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.162.20.127:36245] logged in with entity id 52299 at (-9193.156263594055, 10.0, 9305.158742524143)
+[14Jan2025 23:34:42.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[14Jan2025 23:34:42.978] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[14Jan2025 23:35:24.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Gave 1 [Cloud in a Bottle] to Topy_16]
+[14Jan2025 23:35:33.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 23:35:40.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [The Silence of the Forest]

@@ -5866,12 +5866,6 @@
     },
     "done": true
   },
-  "repurposed_structures:strongholds": {
-    "criteria": {
-      "in_stronghold_end": "2025-01-14 23:20:56 +0000"
-    },
-    "done": false
-  },
   "repurposed_structures:ancient_cities": {
     "criteria": {
       "in_ancient_city_end": "2025-01-14 22:56:56 +0000"
@@ -5889,6 +5883,12 @@
       "in_ruined_portal_end": "2025-01-14 23:07:35 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:strongholds": {
+    "criteria": {
+      "in_stronghold_end": "2025-01-14 23:20:56 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
