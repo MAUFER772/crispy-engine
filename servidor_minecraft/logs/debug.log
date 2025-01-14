@@ -5395,3 +5395,35 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Jan2025 21:27:15.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
 [14Jan2025 21:29:44.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jan2025 21:29:44.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 21:34:44.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 21:34:44.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 21:34:55.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was killed
+[14Jan2025 21:34:55.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Killed Maufer772]
+[14Jan2025 21:34:57.776] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[14Jan2025 21:35:03.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was killed
+[14Jan2025 21:35:03.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Killed Topy_16]
+[14Jan2025 21:35:05.043] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[14Jan2025 21:35:09.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was killed
+[14Jan2025 21:35:09.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Killed Maufer772]
+[14Jan2025 21:35:11.423] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[14Jan2025 21:35:17.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was killed
+[14Jan2025 21:35:17.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Killed Topy_16]
+[14Jan2025 21:35:19.580] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[14Jan2025 21:35:21.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[14Jan2025 21:35:37.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[14Jan2025 21:35:47.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[14Jan2025 21:35:54.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[14Jan2025 21:36:32.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[14Jan2025 21:37:49.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[14Jan2025 21:38:25.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[14Jan2025 21:38:49.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 21:39:42.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Stick] to Maufer772]
+[14Jan2025 21:39:44.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 21:39:44.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 21:40:10.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[14Jan2025 21:40:21.577] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/20081, l='ServerLevel[world]', x=-1181.70, y=69.56, z=1133.49] died, message: 'Mason was slain by Zombie'
+[14Jan2025 21:41:03.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 21:41:27.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 21:43:15.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 21:44:12.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[14Jan2025 21:44:20.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
