@@ -1150,6 +1150,7 @@
       "cooked_mutton": "2024-12-14 19:17:47 +0000",
       "sweet_berries": "2025-01-10 21:47:40 +0000",
       "cooked_beef": "2024-12-20 22:52:10 +0000",
+      "chorus_fruit": "2025-01-14 22:17:28 +0000",
       "baked_potato": "2024-12-16 23:51:30 +0000",
       "beef": "2024-12-16 23:43:00 +0000",
       "porkchop": "2024-12-14 20:24:19 +0000",
@@ -5628,21 +5629,51 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-01-14 21:18:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-01-14 21:23:53 +0000"
     },
     "done": true
   },
-  "slashblade_addon:recipes/combat/kamuy_water": {
+  "securitycraft:recipes/misc/protecto": {
     "criteria": {
-      "has_slashblade": "2025-01-14 22:05:19 +0000"
+      "has_ender_eye": "2025-01-14 21:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-01-14 21:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-01-14 21:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-01-14 21:24:21 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-01-14 21:31:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/kamuy_water": {
+    "criteria": {
+      "has_slashblade": "2025-01-14 22:05:19 +0000"
     },
     "done": true
   },
@@ -5688,27 +5719,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/protecto": {
-    "criteria": {
-      "has_ender_eye": "2025-01-14 21:23:53 +0000"
-    },
-    "done": true
-  },
   "slashblade_addon:recipes/combat/nihilbx": {
     "criteria": {
       "has_slashblade": "2025-01-14 22:05:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2025-01-14 21:18:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-01-14 21:23:53 +0000"
     },
     "done": true
   },
@@ -5721,12 +5734,6 @@
   "slashblade_addon:recipes/combat/moonlight_cherry": {
     "criteria": {
       "has_slashblade": "2025-01-14 22:05:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-01-14 21:24:21 +0000"
     },
     "done": true
   },
@@ -5766,18 +5773,6 @@
     },
     "done": true
   },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2025-01-14 22:11:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2025-01-14 21:24:21 +0000"
-    },
-    "done": true
-  },
   "slashblade_addon:recipes/combat/kamuy_lightning": {
     "criteria": {
       "has_slashblade": "2025-01-14 22:05:19 +0000"
@@ -5787,6 +5782,72 @@
   "slashblade_addon:recipes/combat/frost_wolf": {
     "criteria": {
       "has_slashblade": "2025-01-14 22:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-01-14 22:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-01-14 22:16:06 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-01-14 22:17:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-14 22:21:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2025-01-14 22:17:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-01-14 22:17:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-01-14 22:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-14 22:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-01-14 22:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-14 22:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-14 22:21:30 +0000"
     },
     "done": true
   },
