@@ -1506,6 +1506,7 @@
       "minecraft:cave_spider": "2024-12-25 21:18:15 +0000",
       "minecraft:silverfish": "2025-01-07 22:32:51 +0000",
       "minecraft:enderman": "2025-01-14 21:54:18 +0000",
+      "minecraft:endermite": "2025-01-14 23:03:35 +0000",
       "minecraft:zombie": "2024-12-14 19:11:30 +0000",
       "minecraft:drowned": "2025-01-08 22:00:35 +0000"
     },
@@ -4794,6 +4795,7 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_end": "2025-01-14 23:03:30 +0000",
       "in_pyramid_ocean": "2025-01-09 21:45:34 +0000",
       "in_pyramid_jungle": "2025-01-07 22:31:30 +0000",
       "in_pyramid_nether": "2025-01-10 22:35:16 +0000"
@@ -5862,6 +5864,12 @@
       "endergolem": "2025-01-14 22:34:46 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:ancient_cities": {
+    "criteria": {
+      "in_ancient_city_end": "2025-01-14 22:56:56 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

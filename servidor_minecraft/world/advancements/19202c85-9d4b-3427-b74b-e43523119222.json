@@ -2543,6 +2543,7 @@
       "minecraft:spider": "2024-12-17 02:18:27 +0000",
       "minecraft:piglin_brute": "2025-01-01 22:26:11 +0000",
       "minecraft:creeper": "2024-12-14 19:50:39 +0000",
+      "minecraft:phantom": "2025-01-14 23:00:35 +0000",
       "minecraft:zombified_piglin": "2025-01-02 22:01:19 +0000",
       "minecraft:witch": "2024-12-26 03:07:50 +0000",
       "minecraft:wither_skeleton": "2025-01-01 23:09:13 +0000",
@@ -6790,6 +6791,7 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_end": "2025-01-14 23:03:56 +0000",
       "in_pyramid_ocean": "2025-01-09 21:41:54 +0000",
       "in_pyramid_nether": "2025-01-10 22:34:35 +0000"
     },
@@ -7630,6 +7632,18 @@
     },
     "done": true
   },
+  "repurposed_structures:ancient_cities": {
+    "criteria": {
+      "in_ancient_city_end": "2025-01-14 22:56:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-01-14 23:04:06 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_ender_golem": {
     "criteria": {
       "endergolem": "2025-01-14 22:31:04 +0000"
@@ -7639,6 +7653,30 @@
   "alexsmobs:alexsmobs/capsid": {
     "criteria": {
       "capsid": "2025-01-14 22:21:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-14 22:57:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-01-14 23:00:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-01-14 23:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-01-14 23:04:06 +0000"
     },
     "done": true
   },
@@ -7654,9 +7692,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2025-01-14 22:57:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2025-01-14 22:33:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-01-14 23:04:06 +0000"
     },
     "done": true
   },
@@ -7672,15 +7722,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-01-14 23:04:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
       "has_iron_knife": "2025-01-14 22:28:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-01-14 22:57:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-01-14 22:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-01-14 23:04:06 +0000"
     },
     "done": true
   },
