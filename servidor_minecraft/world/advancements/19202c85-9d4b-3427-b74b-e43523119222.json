@@ -4668,6 +4668,7 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
+      "in_mineshaft_end": "2025-01-14 23:14:36 +0000",
       "in_mineshaft_taiga": "2024-12-26 03:11:15 +0000",
       "in_mineshaft_nether": "2025-01-01 23:06:52 +0000"
     },
@@ -7626,6 +7627,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-01-14 23:12:12 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_pickup_upgrade": "2025-01-14 22:35:16 +0000"
@@ -7643,6 +7650,18 @@
       "has_purpur_block": "2025-01-14 23:04:06 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-01-14 23:04:50 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_end": "2025-01-14 23:07:09 +0000"
+    },
+    "done": false
   },
   "cataclysm:kill_ender_golem": {
     "criteria": {
@@ -7665,6 +7684,12 @@
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2025-01-14 23:00:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-01-14 23:11:44 +0000"
     },
     "done": true
   },
@@ -7728,6 +7753,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-14 23:04:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
       "has_iron_knife": "2025-01-14 22:28:07 +0000"
@@ -7737,6 +7768,18 @@
   "minecraft:recipes/misc/music_disc_5": {
     "criteria": {
       "has_disc_fragment_5": "2025-01-14 22:57:30 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruined_portal_end": {
+    "criteria": {
+      "in_ruined_portal_end": "2025-01-14 23:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-01-14 23:04:47 +0000"
     },
     "done": true
   },

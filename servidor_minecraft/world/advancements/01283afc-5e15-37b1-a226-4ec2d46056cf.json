@@ -3943,6 +3943,7 @@
   "repurposed_structures:mineshafts": {
     "criteria": {
       "in_mineshaft_desert": "2025-01-08 22:19:29 +0000",
+      "in_mineshaft_end": "2025-01-14 23:14:41 +0000",
       "in_mineshaft_taiga": "2024-12-26 03:11:03 +0000",
       "in_mineshaft_nether": "2025-01-01 23:20:51 +0000"
     },
@@ -5870,6 +5871,18 @@
       "in_ancient_city_end": "2025-01-14 22:56:56 +0000"
     },
     "done": false
+  },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_end": "2025-01-14 23:07:08 +0000"
+    },
+    "done": false
+  },
+  "repurposed_structures:ruined_portal_end": {
+    "criteria": {
+      "in_ruined_portal_end": "2025-01-14 23:07:35 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
