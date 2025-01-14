@@ -408,3 +408,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Jan2025 21:43:15.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
 [14Jan2025 21:44:12.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
 [14Jan2025 21:44:20.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[14Jan2025 21:44:34.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[14Jan2025 21:44:50.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[14Jan2025 21:44:51.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Stick] to Maufer772]
+[14Jan2025 21:46:00.594] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1351, y=14, z=-754}
+[14Jan2025 21:46:00.595] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1351, y=14, z=-755}
+[14Jan2025 21:46:05.557] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1270, y=-13, z=-734}
+[14Jan2025 21:46:51.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[14Jan2025 21:46:58.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[14Jan2025 21:50:02.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Gave 30 [Witherbone] to Topy_16]
+[14Jan2025 21:50:57.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 21:53:24.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
