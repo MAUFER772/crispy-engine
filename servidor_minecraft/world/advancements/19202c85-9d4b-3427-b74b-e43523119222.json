@@ -2546,9 +2546,11 @@
       "minecraft:zombified_piglin": "2025-01-02 22:01:19 +0000",
       "minecraft:witch": "2024-12-26 03:07:50 +0000",
       "minecraft:wither_skeleton": "2025-01-01 23:09:13 +0000",
+      "minecraft:ender_dragon": "2025-01-14 22:05:13 +0000",
       "minecraft:cave_spider": "2024-12-17 02:40:34 +0000",
       "minecraft:piglin": "2025-01-10 22:24:07 +0000",
       "minecraft:enderman": "2024-12-17 02:16:06 +0000",
+      "minecraft:endermite": "2025-01-14 22:08:02 +0000",
       "minecraft:zombie": "2024-12-23 03:16:11 +0000",
       "minecraft:drowned": "2025-01-09 21:42:07 +0000",
       "minecraft:zombie_villager": "2025-01-02 21:33:50 +0000"
@@ -7489,6 +7491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-01-14 22:08:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-01-14 21:51:25 +0000"
@@ -7513,6 +7521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-01-14 22:08:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2025-01-14 21:23:32 +0000"
@@ -7531,9 +7545,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-01-14 22:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-01-14 22:05:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2025-01-14 21:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-01-14 22:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-01-14 22:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-01-14 22:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-01-14 22:11:36 +0000"
     },
     "done": true
   },

@@ -5448,3 +5448,41 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Jan2025 21:59:44.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Jan2025 22:04:44.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jan2025 22:04:44.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 22:05:13.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Free the End]
+[14Jan2025 22:05:13.623] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_dragon_loot
+[14Jan2025 22:07:17.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[14Jan2025 22:07:47.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[14Jan2025 22:08:04.474] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[14Jan2025 22:09:44.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 22:09:44.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 22:09:59.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[14Jan2025 22:10:54.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:11:36.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [The City at the End of the Game]
+[14Jan2025 22:11:52.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [The City at the End of the Game]
+[14Jan2025 22:12:10.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Mimicube
+[14Jan2025 22:12:12.210] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[14Jan2025 22:12:15.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:12:30.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Mimicube
+[14Jan2025 22:12:32.292] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[14Jan2025 22:12:35.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:12:53.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Mimicube
+[14Jan2025 22:12:53.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:12:55.115] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[14Jan2025 22:12:56.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:13:28.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Mimicube
+[14Jan2025 22:13:29.307] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[14Jan2025 22:13:37.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:13:38.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 fell from a high place
+[14Jan2025 22:13:40.202] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[14Jan2025 22:13:41.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:13:42.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 fell from a high place
+[14Jan2025 22:13:44.088] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[14Jan2025 22:13:45.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:14:19.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[14Jan2025 22:14:19.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Mimicube
+[14Jan2025 22:14:21.048] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[14Jan2025 22:14:28.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:14:35.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Creative Mode]
+[14Jan2025 22:14:38.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[14Jan2025 22:14:44.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 22:14:44.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

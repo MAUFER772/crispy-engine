@@ -419,3 +419,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Jan2025 21:50:02.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Gave 30 [Witherbone] to Topy_16]
 [14Jan2025 21:50:57.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
 [14Jan2025 21:53:24.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[14Jan2025 22:05:13.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Free the End]
+[14Jan2025 22:07:17.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[14Jan2025 22:07:47.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[14Jan2025 22:09:59.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[14Jan2025 22:10:54.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:11:36.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [The City at the End of the Game]
+[14Jan2025 22:11:52.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [The City at the End of the Game]
+[14Jan2025 22:12:10.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Mimicube
+[14Jan2025 22:12:15.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:12:30.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Mimicube
+[14Jan2025 22:12:35.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:12:53.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Mimicube
+[14Jan2025 22:12:53.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:12:56.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:13:28.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Mimicube
+[14Jan2025 22:13:37.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:13:38.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 fell from a high place
+[14Jan2025 22:13:41.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:13:42.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 fell from a high place
+[14Jan2025 22:13:45.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:14:19.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[14Jan2025 22:14:19.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Mimicube
+[14Jan2025 22:14:28.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[14Jan2025 22:14:35.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Creative Mode]
+[14Jan2025 22:14:38.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
