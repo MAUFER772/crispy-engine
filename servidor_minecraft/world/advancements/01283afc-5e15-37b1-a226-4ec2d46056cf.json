@@ -5797,6 +5797,12 @@
     },
     "done": true
   },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-01-14 22:26:47 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/enderiophage": {
     "criteria": {
       "killed_by": "2025-01-14 22:17:38 +0000"

@@ -2547,6 +2547,7 @@
       "minecraft:witch": "2024-12-26 03:07:50 +0000",
       "minecraft:wither_skeleton": "2025-01-01 23:09:13 +0000",
       "minecraft:ender_dragon": "2025-01-14 22:05:13 +0000",
+      "minecraft:shulker": "2025-01-14 22:31:45 +0000",
       "minecraft:cave_spider": "2024-12-17 02:40:34 +0000",
       "minecraft:piglin": "2025-01-10 22:24:07 +0000",
       "minecraft:enderman": "2024-12-17 02:16:06 +0000",
@@ -7605,15 +7606,69 @@
     },
     "done": true
   },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-01-14 22:26:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2025-01-14 22:32:52 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/enderiophage": {
     "criteria": {
       "killed_by": "2025-01-14 22:21:25 +0000"
     },
     "done": true
   },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-01-14 22:31:04 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/capsid": {
     "criteria": {
       "capsid": "2025-01-14 22:21:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-01-14 22:28:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-01-14 22:33:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-01-14 22:26:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-01-14 22:28:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-01-14 22:28:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-01-14 22:26:41 +0000"
     },
     "done": true
   },
