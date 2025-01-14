@@ -4176,7 +4176,10 @@
   },
   "twilightforest:arborist": {
     "criteria": {
-      "canopy_chest": "2024-12-23 23:16:29 +0000"
+      "canopy_chest": "2024-12-23 23:16:29 +0000",
+      "twilight_oak_log": "2025-01-14 23:37:45 +0000",
+      "twilight_oak_wood": "2025-01-14 23:37:47 +0000",
+      "twilight_oak_sapling": "2025-01-14 23:37:48 +0000"
     },
     "done": false
   },
@@ -7621,6 +7624,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/nagastone/cracked_nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2025-01-14 23:40:01 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/enderiophage": {
     "criteria": {
       "killed_by": "2025-01-14 22:21:25 +0000"
@@ -7630,6 +7639,18 @@
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-01-14 23:12:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2025-01-14 23:39:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/cracked_nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-01-14 23:40:01 +0000"
     },
     "done": true
   },
@@ -7645,17 +7666,35 @@
     },
     "done": false
   },
+  "twilightforest:recipes/decorations/cicada_jar": {
+    "criteria": {
+      "has_item": "2025-01-14 23:37:49 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:ancient_cities": {
     "criteria": {
       "in_ancient_city_end": "2025-01-14 22:56:41 +0000"
     },
     "done": false
   },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2025-01-14 23:37:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2025-01-14 23:04:06 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-01-14 23:40:30 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
@@ -7690,6 +7729,12 @@
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2025-01-14 23:00:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2025-01-14 23:40:30 +0000"
     },
     "done": true
   },
@@ -7729,6 +7774,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-01-14 23:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-01-14 23:44:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2025-01-14 22:33:22 +0000"
@@ -7747,9 +7804,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
+    "criteria": {
+      "has_item": "2025-01-14 23:37:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
     "criteria": {
       "has_iron_knife": "2025-01-14 22:28:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-01-14 23:39:49 +0000"
     },
     "done": true
   },
@@ -7768,6 +7837,18 @@
   "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
       "has_iron_knife": "2025-01-14 22:28:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-01-14 23:39:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-01-14 23:39:49 +0000"
     },
     "done": true
   },
@@ -7798,6 +7879,12 @@
   "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-01-14 23:04:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-01-14 23:37:46 +0000"
     },
     "done": true
   },
