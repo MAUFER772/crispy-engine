@@ -6114,5 +6114,17 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/maze_map": {
+    "criteria": {
+      "has_item": "2025-01-15 00:36:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-01-15 00:35:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -113,3 +113,21 @@
 [15Jan2025 00:36:45.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
 [15Jan2025 00:36:47.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
 [15Jan2025 00:36:47.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! 8.993079788118848,1.0104000401496869,-4.551708454324398
+[15Jan2025 00:37:08.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[15Jan2025 00:37:16.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[15Jan2025 00:37:16.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! 10.103215104603805,1.2000000476837158,-1.2656919877699693
+[15Jan2025 00:37:22.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[15Jan2025 00:37:27.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! 9.993613233040378,0.0,-0.6643563317229564
+[15Jan2025 00:37:29.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[15Jan2025 00:37:30.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! 10.650029733655174,0.0,-1.6874269570071192
+[15Jan2025 00:37:34.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[15Jan2025 00:37:37.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[15Jan2025 00:37:59.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[15Jan2025 00:38:10.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[15Jan2025 00:38:13.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[15Jan2025 00:38:15.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[15Jan2025 00:38:23.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[15Jan2025 00:39:52.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[15Jan2025 00:39:52.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[15Jan2025 00:39:54.077] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 lost connection: Disconnected
+[15Jan2025 00:39:54.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 left the game

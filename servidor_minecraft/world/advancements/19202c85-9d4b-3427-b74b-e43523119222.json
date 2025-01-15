@@ -4178,6 +4178,7 @@
   "twilightforest:arborist": {
     "criteria": {
       "canopy_chest": "2024-12-23 23:16:29 +0000",
+      "mangrove_chest": "2025-01-15 00:39:39 +0000",
       "dark_fence": "2025-01-14 23:59:10 +0000",
       "twilight_oak_log": "2025-01-14 23:37:45 +0000",
       "twilight_oak_wood": "2025-01-14 23:37:47 +0000",
@@ -8101,9 +8102,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-01-15 00:35:50 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/compressed_blocks/ironwood_block": {
     "criteria": {
       "has_item": "2025-01-15 00:34:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/steeleaf_block": {
+    "criteria": {
+      "has_item": "2025-01-15 00:39:29 +0000"
     },
     "done": true
   },
