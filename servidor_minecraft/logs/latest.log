@@ -35,3 +35,44 @@
 [15Jan2025 00:15:57.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
 [15Jan2025 00:16:04.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
 [15Jan2025 00:16:11.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[15Jan2025 00:17:42.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 succumbed to the Lich's explosive magic
+[15Jan2025 00:17:46.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Lich's aim was better than Maufer772
+[15Jan2025 00:17:47.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[15Jan2025 00:17:50.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[15Jan2025 00:17:59.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[15Jan2025 00:18:15.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[15Jan2025 00:18:30.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[15Jan2025 00:18:51.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[15Jan2025 00:18:56.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[15Jan2025 00:18:59.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 succumbed to the Lich's explosive magic
+[15Jan2025 00:18:59.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[15Jan2025 00:19:04.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[15Jan2025 00:19:06.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[15Jan2025 00:19:07.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[15Jan2025 00:19:10.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[15Jan2025 00:19:24.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Lich's aim was better than Topy_16
+[15Jan2025 00:19:25.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[15Jan2025 00:19:28.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[15Jan2025 00:19:32.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[15Jan2025 00:19:33.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Lich's aim was better than Maufer772
+[15Jan2025 00:19:34.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[15Jan2025 00:19:47.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[15Jan2025 00:19:52.278] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 lost connection: Disconnected
+[15Jan2025 00:19:52.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 left the game
+[15Jan2025 00:19:57.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[15Jan2025 00:20:21.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Gave 20 [Enchanted Golden Apple] to Maufer772]
+[15Jan2025 00:20:34.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[15Jan2025 00:22:04.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Lich
+[15Jan2025 00:22:31.351] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Topy_16[/127.29.166.85:45335] logged in with entity id 94220 at (-9180.416011755955, 54.024424088213685, 9977.140514219662)
+[15Jan2025 00:22:31.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 joined the game
+[15Jan2025 00:22:31.369] [Server thread/INFO] [Jade/]: Syncing config to Topy_16 (19202c85-9d4b-3427-b74b-e43523119222)
+[15Jan2025 00:22:37.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Lich
+[15Jan2025 00:22:45.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[15Jan2025 00:23:06.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[15Jan2025 00:23:16.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[15Jan2025 00:23:17.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[15Jan2025 00:23:21.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[15Jan2025 00:25:26.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[15Jan2025 00:25:30.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[15Jan2025 00:25:32.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[15Jan2025 00:25:52.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
