@@ -4177,6 +4177,7 @@
   "twilightforest:arborist": {
     "criteria": {
       "canopy_chest": "2024-12-23 23:16:29 +0000",
+      "dark_fence": "2025-01-14 23:59:10 +0000",
       "twilight_oak_log": "2025-01-14 23:37:45 +0000",
       "twilight_oak_wood": "2025-01-14 23:37:47 +0000",
       "twilight_oak_sapling": "2025-01-14 23:37:48 +0000"
@@ -7618,6 +7619,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-01-14 23:58:44 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/cosmic_cod": {
     "criteria": {
       "capsid": "2025-01-14 22:32:52 +0000"
@@ -7654,17 +7661,53 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-01-14 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-14 23:58:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map_focus": {
+    "criteria": {
+      "has_berries": "2025-01-14 23:59:13 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_pickup_upgrade": "2025-01-14 22:35:16 +0000"
     },
     "done": true
   },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "cooked_venison": "2025-01-14 23:51:07 +0000"
+    },
+    "done": false
+  },
   "repurposed_structures:strongholds": {
     "criteria": {
       "in_stronghold_end": "2025-01-14 23:20:58 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-14 23:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-14 23:58:27 +0000"
+    },
+    "done": true
   },
   "twilightforest:recipes/decorations/cicada_jar": {
     "criteria": {
@@ -7732,6 +7775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-14 23:58:44 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_naga": {
     "criteria": {
       "was_in_fight": "2025-01-14 23:40:30 +0000"
@@ -7756,6 +7805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-01-15 00:02:51 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_ender_guardian": {
     "criteria": {
       "enderguardian": "2025-01-14 22:43:48 +0000"
@@ -7771,6 +7826,12 @@
   "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
     "criteria": {
       "has_ward_armor_trim_smithing_template": "2025-01-14 22:57:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-14 23:58:27 +0000"
     },
     "done": true
   },
@@ -7792,6 +7853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-14 23:58:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-01-14 23:04:06 +0000"
@@ -7801,6 +7868,12 @@
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-01-14 22:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-14 23:58:44 +0000"
     },
     "done": true
   },
@@ -7816,9 +7889,21 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "naga": "2025-01-14 23:47:13 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
     "criteria": {
       "has_item": "2025-01-14 23:39:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2025-01-15 00:00:05 +0000"
     },
     "done": true
   },
@@ -7870,9 +7955,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-14 23:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-01-14 22:26:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2025-01-14 23:59:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-14 23:58:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_spiral": {
+    "criteria": {
+      "has_item": "2025-01-14 23:55:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-14 23:58:47 +0000"
     },
     "done": true
   },
@@ -7885,6 +8000,12 @@
   "twilightforest:recipes/decorations/firefly_jar": {
     "criteria": {
       "has_item": "2025-01-14 23:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-14 23:58:27 +0000"
     },
     "done": true
   },
