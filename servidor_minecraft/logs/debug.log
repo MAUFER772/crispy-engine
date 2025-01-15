@@ -7016,3 +7016,41 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Jan2025 00:06:11.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
 [15Jan2025 00:06:12.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
 [15Jan2025 00:06:21.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[15Jan2025 00:06:50.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was shot by Skeleton
+[15Jan2025 00:06:52.030] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[15Jan2025 00:06:55.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[15Jan2025 00:06:57.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[15Jan2025 00:07:01.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[15Jan2025 00:07:04.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[15Jan2025 00:07:24.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[15Jan2025 00:08:40.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[15Jan2025 00:09:44.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 00:09:44.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jan2025 00:11:41.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Lich's aim was better than Maufer772
+[15Jan2025 00:11:43.052] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[15Jan2025 00:11:48.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[15Jan2025 00:12:04.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 succumbed to the Lich's explosive magic
+[15Jan2025 00:12:07.047] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[15Jan2025 00:12:15.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[15Jan2025 00:12:21.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[15Jan2025 00:12:23.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[15Jan2025 00:12:37.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[15Jan2025 00:12:39.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[15Jan2025 00:12:41.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[15Jan2025 00:12:48.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Lich's aim was better than Topy_16
+[15Jan2025 00:12:50.209] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[15Jan2025 00:12:55.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[15Jan2025 00:13:09.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[15Jan2025 00:13:37.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 succumbed to the Lich's explosive magic
+[15Jan2025 00:13:39.489] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[15Jan2025 00:13:54.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[15Jan2025 00:13:59.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[15Jan2025 00:14:24.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has reached the goal [Bring Out Your Dead]
+[15Jan2025 00:14:24.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has reached the goal [Bring Out Your Dead]
+[15Jan2025 00:14:44.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 00:14:44.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jan2025 00:15:41.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[15Jan2025 00:15:54.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[15Jan2025 00:15:57.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[15Jan2025 00:16:04.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[15Jan2025 00:16:11.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]

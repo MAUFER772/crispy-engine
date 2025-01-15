@@ -5917,9 +5917,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
-      "kill_naga": "2025-01-14 23:40:30 +0000"
+      "kill_naga": "2025-01-14 23:40:30 +0000",
+      "was_in_fight": "2025-01-15 00:14:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_naga": {
     "criteria": {
@@ -6017,6 +6018,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/fortification_scepter": {
+    "criteria": {
+      "has_item": "2025-01-15 00:14:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-01-15 00:04:31 +0000"
@@ -6047,6 +6054,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-01-15 00:14:24 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-01-15 00:04:31 +0000"
@@ -6058,6 +6071,12 @@
       "magic_map": "2025-01-14 23:59:57 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-01-15 00:14:24 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
@@ -6088,6 +6107,12 @@
       "has_item": "2025-01-14 23:58:21 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-01-15 00:14:24 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

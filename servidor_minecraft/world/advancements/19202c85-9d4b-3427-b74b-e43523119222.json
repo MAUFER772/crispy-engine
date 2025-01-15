@@ -878,6 +878,7 @@
       "salmon": "2024-12-17 02:03:36 +0000",
       "beetroot": "2025-01-01 23:49:14 +0000",
       "golden_carrot": "2025-01-09 21:29:31 +0000",
+      "cooked_chicken": "2025-01-15 00:07:33 +0000",
       "enchanted_golden_apple": "2025-01-10 23:10:47 +0000",
       "carrot": "2024-12-17 01:56:24 +0000"
     },
@@ -7709,6 +7710,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-01-15 00:10:14 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/cicada_jar": {
     "criteria": {
       "has_item": "2025-01-14 23:37:49 +0000"
@@ -7735,13 +7742,26 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
+      "kill_lich": "2025-01-15 00:14:24 +0000",
       "kill_naga": "2025-01-14 23:40:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2025-01-14 23:04:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2025-01-15 00:10:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-15 00:10:14 +0000"
     },
     "done": true
   },
@@ -7766,6 +7786,12 @@
   "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-01-14 22:57:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2025-01-15 00:10:14 +0000"
     },
     "done": true
   },
@@ -7820,6 +7846,12 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2025-01-14 22:28:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2025-01-15 00:10:14 +0000"
     },
     "done": true
   },
@@ -7889,6 +7921,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-01-15 00:14:24 +0000"
+    },
+    "done": false
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "naga": "2025-01-14 23:47:13 +0000"
@@ -7912,6 +7950,12 @@
       "has_purpur_block": "2025-01-14 23:04:06 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-01-15 00:14:24 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
@@ -7937,9 +7981,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-15 00:10:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/music_disc_5": {
     "criteria": {
       "has_disc_fragment_5": "2025-01-14 22:57:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_planks": "2025-01-15 00:10:14 +0000"
     },
     "done": true
   },
@@ -7979,9 +8035,27 @@
     },
     "done": true
   },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-01-15 00:14:24 +0000"
+    },
+    "done": false
+  },
   "twilightforest:recipes/building_blocks/nagastone/nagastone_spiral": {
     "criteria": {
       "has_item": "2025-01-14 23:55:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-15 00:10:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-15 00:10:14 +0000"
     },
     "done": true
   },
