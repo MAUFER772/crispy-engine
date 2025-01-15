@@ -6018,9 +6018,33 @@
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/fortification_scepter": {
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_left": {
     "criteria": {
-      "has_item": "2025-01-15 00:14:41 +0000"
+      "has_item": "2025-01-14 23:47:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-01-14 23:47:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2025-01-14 23:58:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map": {
+    "criteria": {
+      "has_the_recipe": "2025-01-14 23:59:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2025-01-14 23:59:57 +0000"
     },
     "done": true
   },
@@ -6036,47 +6060,11 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_left": {
-    "criteria": {
-      "has_item": "2025-01-14 23:47:22 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_right": {
-    "criteria": {
-      "has_item": "2025-01-14 23:47:22 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/magic_map": {
-    "criteria": {
-      "has_the_recipe": "2025-01-14 23:59:55 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_trophy_pedestal": {
-    "criteria": {
-      "kill_lich": "2025-01-15 00:14:24 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-01-15 00:04:31 +0000"
     },
     "done": true
-  },
-  "twilightforest:magic_map": {
-    "criteria": {
-      "magic_map": "2025-01-14 23:59:57 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_labyrinth": {
-    "criteria": {
-      "kill_lich": "2025-01-15 00:14:24 +0000"
-    },
-    "done": false
   },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
@@ -6102,17 +6090,29 @@
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/berry_torch": {
+  "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "has_item": "2025-01-14 23:58:21 +0000"
+      "kill_lich": "2025-01-15 00:14:24 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-01-15 00:14:24 +0000"
+    },
+    "done": false
   },
   "twilightforest:progress_yeti": {
     "criteria": {
       "previous_progression": "2025-01-15 00:14:24 +0000"
     },
     "done": false
+  },
+  "twilightforest:recipes/combat/equipment/fortification_scepter": {
+    "criteria": {
+      "has_item": "2025-01-15 00:14:41 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -76,3 +76,40 @@
 [15Jan2025 00:25:30.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
 [15Jan2025 00:25:32.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
 [15Jan2025 00:25:52.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[15Jan2025 00:26:50.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Gave 1 [Cloud in a Bottle] to Maufer772]
+[15Jan2025 00:26:57.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[15Jan2025 00:27:21.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 fell from a high place
+[15Jan2025 00:27:24.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[15Jan2025 00:27:26.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Gave 1 [Cloud in a Bottle] to Maufer772]
+[15Jan2025 00:27:32.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[15Jan2025 00:28:17.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[15Jan2025 00:30:45.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[15Jan2025 00:30:51.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[15Jan2025 00:31:15.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[15Jan2025 00:31:23.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[15Jan2025 00:31:29.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[15Jan2025 00:31:30.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[15Jan2025 00:31:33.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[15Jan2025 00:31:35.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[15Jan2025 00:32:01.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[15Jan2025 00:32:13.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[15Jan2025 00:32:26.488] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element twilightforest:labyrinth took 9 ms
+[15Jan2025 00:32:50.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to -8934.500000, 6.000000, 9480.500000]
+[15Jan2025 00:32:55.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[15Jan2025 00:33:35.821] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Timed out
+[15Jan2025 00:33:35.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[15Jan2025 00:34:27.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[15Jan2025 00:34:28.885] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.162.20.127:42817] logged in with entity id 98722 at (-8933.192060900465, -13.0, 9482.791690207556)
+[15Jan2025 00:34:28.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[15Jan2025 00:34:28.921] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[15Jan2025 00:34:50.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Applied effect Night Vision to Maufer772]
+[15Jan2025 00:34:53.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[15Jan2025 00:35:07.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[15Jan2025 00:35:27.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[15Jan2025 00:35:30.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[15Jan2025 00:36:34.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[15Jan2025 00:36:37.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! 9.624332325103751,0.0,-4.740670285229498
+[15Jan2025 00:36:40.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! 9.7362128204295,0.15000000596046448,-4.7352707465088315
+[15Jan2025 00:36:45.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[15Jan2025 00:36:47.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[15Jan2025 00:36:47.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! 8.993079788118848,1.0104000401496869,-4.551708454324398
