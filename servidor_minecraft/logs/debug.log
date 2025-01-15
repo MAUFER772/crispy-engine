@@ -7646,3 +7646,29 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Jan2025 00:59:44.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Jan2025 01:04:44.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jan2025 01:04:44.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jan2025 01:09:44.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 01:09:44.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jan2025 01:14:44.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 01:14:44.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jan2025 01:15:42.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Jan2025 01:15:42.916] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[15Jan2025 01:15:42.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Jan2025 01:15:42.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Jan2025 01:15:42.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Jan2025 01:15:43.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Jan2025 01:15:43.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[15Jan2025 01:15:43.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[15Jan2025 01:15:43.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Jan2025 01:15:43.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Jan2025 01:15:43.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 01:15:43.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jan2025 01:15:43.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Jan2025 01:15:43.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[15Jan2025 01:15:43.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[15Jan2025 01:15:43.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Jan2025 01:15:43.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Jan2025 01:15:43.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15Jan2025 01:15:43.759] [Server thread/INFO] [Framework/]: Unloading server configs...
+[15Jan2025 01:15:43.760] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[15Jan2025 01:15:43.761] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[15Jan2025 01:15:43.762] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
